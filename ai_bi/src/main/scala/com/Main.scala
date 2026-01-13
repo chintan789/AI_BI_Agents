@@ -32,9 +32,8 @@ object Main extends App {
 
   // read API key and create LLM client
 
-  val apiKey = sys.env.getOrElse("OPENROUTER_API_KEY","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")
-  //val apiKey = sys.env.getOrElse("OPENROUTER_API_KEY", "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")
-  //val apiKey = sys.env.getOrElse("OPENROUTER_API_KEY", "8f63106d-6239-4ae8-8dd2-c60a3f03a7b6")
+  val apiKey = sys.env.getOrElse("OPENROUTER_API_KEY","***********")
+  
 
   if (apiKey.isEmpty) {
     println("ERROR: set OPENROUTER_API_KEY environment variable before running.")
