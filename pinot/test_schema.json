@@ -1,0 +1,21 @@
+{
+  "schemaName": "chalja",
+  "dimensionFieldSpecs": [
+    {"name": "kpi_name", "dataType": "STRING"},
+    {"name": "kpi_type", "dataType": "STRING"},
+    {"name": "entity_id", "dataType": "STRING"},
+    {"name": "source", "dataType": "STRING"},
+    {"name": "value_str", "dataType": "STRING"}
+  ],
+  "metricFieldSpecs": [
+    {"name": "value_num", "dataType": "DOUBLE"}
+  ],
+  "dateTimeFieldSpecs": [
+    {
+      "name": "timestampInEpoch",
+      "dataType": "LONG",
+      "format": "1:MILLISECONDS:EPOCH",
+      "granularity": "1:MILLISECONDS"
+    }
+  ]
+}

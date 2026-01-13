@@ -1,0 +1,6002 @@
+[
+  {
+    "symbol": "GOOGL",
+    "price": 133.35,
+    "volume": 37048,
+    "timestamp": 1759666236
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.4,
+    "volume": 97530,
+    "timestamp": 1759666238
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.47,
+    "volume": 72482,
+    "timestamp": 1759666240
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.27,
+    "volume": 5165,
+    "timestamp": 1759666242
+  },
+  {
+    "symbol": "AAPL",
+    "price": 143.91,
+    "volume": 31495,
+    "timestamp": 1759666244
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.02,
+    "volume": 74563,
+    "timestamp": 1759666246
+  },
+  {
+    "symbol": "AMZN",
+    "price": 132.81,
+    "volume": 92924,
+    "timestamp": 1759666248
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.2,
+    "volume": 59878,
+    "timestamp": 1759666250
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.89,
+    "volume": 1851,
+    "timestamp": 1759666252
+  },
+  {
+    "symbol": "MSFT",
+    "price": 305.94,
+    "volume": 45597,
+    "timestamp": 1759666254
+  },
+  {
+    "symbol": "TSLA",
+    "price": 241.39,
+    "volume": 45118,
+    "timestamp": 1759666256
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 134.3,
+    "volume": 13676,
+    "timestamp": 1759666258
+  },
+  {
+    "symbol": "NVDA",
+    "price": 413.9,
+    "volume": 80131,
+    "timestamp": 1759666260
+  },
+  {
+    "symbol": "TSLA",
+    "price": 257.68,
+    "volume": 96647,
+    "timestamp": 1759666262
+  },
+  {
+    "symbol": "NFLX",
+    "price": 351.27,
+    "volume": 50615,
+    "timestamp": 1759666264
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.73,
+    "volume": 83397,
+    "timestamp": 1759666266
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.93,
+    "volume": 48400,
+    "timestamp": 1759666268
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.46,
+    "volume": 10116,
+    "timestamp": 1759666270
+  },
+  {
+    "symbol": "AAPL",
+    "price": 152.42,
+    "volume": 38930,
+    "timestamp": 1759666272
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.97,
+    "volume": 14238,
+    "timestamp": 1759666274
+  },
+  {
+    "symbol": "META",
+    "price": 195.56,
+    "volume": 84320,
+    "timestamp": 1759666276
+  },
+  {
+    "symbol": "NVDA",
+    "price": 386.51,
+    "volume": 47566,
+    "timestamp": 1759666278
+  },
+  {
+    "symbol": "AMZN",
+    "price": 132.21,
+    "volume": 92988,
+    "timestamp": 1759666280
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.53,
+    "volume": 23431,
+    "timestamp": 1759666282
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.29,
+    "volume": 22417,
+    "timestamp": 1759666284
+  },
+  {
+    "symbol": "NFLX",
+    "price": 345.78,
+    "volume": 84886,
+    "timestamp": 1759666286
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.2,
+    "volume": 43504,
+    "timestamp": 1759666288
+  },
+  {
+    "symbol": "AAPL",
+    "price": 145.94,
+    "volume": 5207,
+    "timestamp": 1759666290
+  },
+  {
+    "symbol": "NVDA",
+    "price": 396.05,
+    "volume": 9675,
+    "timestamp": 1759666292
+  },
+  {
+    "symbol": "AMZN",
+    "price": 135.37,
+    "volume": 75341,
+    "timestamp": 1759666294
+  },
+  {
+    "symbol": "NVDA",
+    "price": 388.51,
+    "volume": 66435,
+    "timestamp": 1759666296
+  },
+  {
+    "symbol": "META",
+    "price": 207.69,
+    "volume": 85259,
+    "timestamp": 1759666298
+  },
+  {
+    "symbol": "NFLX",
+    "price": 337.5,
+    "volume": 19301,
+    "timestamp": 1759666300
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.18,
+    "volume": 71644,
+    "timestamp": 1759666302
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.18,
+    "volume": 57155,
+    "timestamp": 1759666304
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.5,
+    "volume": 29746,
+    "timestamp": 1759666306
+  },
+  {
+    "symbol": "MSFT",
+    "price": 300.29,
+    "volume": 12915,
+    "timestamp": 1759666308
+  },
+  {
+    "symbol": "AAPL",
+    "price": 155.42,
+    "volume": 21033,
+    "timestamp": 1759666310
+  },
+  {
+    "symbol": "MSFT",
+    "price": 308.76,
+    "volume": 56333,
+    "timestamp": 1759666312
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.82,
+    "volume": 51019,
+    "timestamp": 1759666314
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.48,
+    "volume": 70352,
+    "timestamp": 1759666316
+  },
+  {
+    "symbol": "TSLA",
+    "price": 261.78,
+    "volume": 2504,
+    "timestamp": 1759666318
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.54,
+    "volume": 71381,
+    "timestamp": 1759666320
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.71,
+    "volume": 45587,
+    "timestamp": 1759666322
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.11,
+    "volume": 21730,
+    "timestamp": 1759666324
+  },
+  {
+    "symbol": "NFLX",
+    "price": 332.61,
+    "volume": 95646,
+    "timestamp": 1759666326
+  },
+  {
+    "symbol": "TSLA",
+    "price": 261.8,
+    "volume": 24416,
+    "timestamp": 1759666328
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.13,
+    "volume": 82959,
+    "timestamp": 1759666330
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.54,
+    "volume": 67540,
+    "timestamp": 1759666332
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.49,
+    "volume": 50009,
+    "timestamp": 1759666334
+  },
+  {
+    "symbol": "MSFT",
+    "price": 301.18,
+    "volume": 70514,
+    "timestamp": 1759666336
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.48,
+    "volume": 65042,
+    "timestamp": 1759666338
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.18,
+    "volume": 48576,
+    "timestamp": 1759666340
+  },
+  {
+    "symbol": "TSLA",
+    "price": 243.49,
+    "volume": 32571,
+    "timestamp": 1759666342
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.23,
+    "volume": 12226,
+    "timestamp": 1759666344
+  },
+  {
+    "symbol": "NFLX",
+    "price": 361.06,
+    "volume": 70822,
+    "timestamp": 1759666346
+  },
+  {
+    "symbol": "MSFT",
+    "price": 288.85,
+    "volume": 63296,
+    "timestamp": 1759666348
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.65,
+    "volume": 70163,
+    "timestamp": 1759666350
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.62,
+    "volume": 28760,
+    "timestamp": 1759666352
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.55,
+    "volume": 91422,
+    "timestamp": 1759666354
+  },
+  {
+    "symbol": "AMZN",
+    "price": 132.77,
+    "volume": 53296,
+    "timestamp": 1759666356
+  },
+  {
+    "symbol": "NVDA",
+    "price": 397.52,
+    "volume": 68839,
+    "timestamp": 1759666358
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.74,
+    "volume": 30451,
+    "timestamp": 1759666360
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.73,
+    "volume": 78110,
+    "timestamp": 1759666362
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.3,
+    "volume": 29864,
+    "timestamp": 1759666364
+  },
+  {
+    "symbol": "AAPL",
+    "price": 143.56,
+    "volume": 83719,
+    "timestamp": 1759666366
+  },
+  {
+    "symbol": "AAPL",
+    "price": 145.93,
+    "volume": 5117,
+    "timestamp": 1759666368
+  },
+  {
+    "symbol": "NVDA",
+    "price": 382.83,
+    "volume": 32195,
+    "timestamp": 1759666370
+  },
+  {
+    "symbol": "TSLA",
+    "price": 254.22,
+    "volume": 29080,
+    "timestamp": 1759666372
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.32,
+    "volume": 75847,
+    "timestamp": 1759666374
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.86,
+    "volume": 62993,
+    "timestamp": 1759666376
+  },
+  {
+    "symbol": "META",
+    "price": 193.81,
+    "volume": 13704,
+    "timestamp": 1759666378
+  },
+  {
+    "symbol": "META",
+    "price": 197.09,
+    "volume": 54883,
+    "timestamp": 1759666380
+  },
+  {
+    "symbol": "NFLX",
+    "price": 362.73,
+    "volume": 8100,
+    "timestamp": 1759666382
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.85,
+    "volume": 96448,
+    "timestamp": 1759666384
+  },
+  {
+    "symbol": "NVDA",
+    "price": 412.02,
+    "volume": 15322,
+    "timestamp": 1759666386
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.99,
+    "volume": 71292,
+    "timestamp": 1759666388
+  },
+  {
+    "symbol": "NFLX",
+    "price": 337.41,
+    "volume": 25050,
+    "timestamp": 1759666390
+  },
+  {
+    "symbol": "TSLA",
+    "price": 249.07,
+    "volume": 10880,
+    "timestamp": 1759666392
+  },
+  {
+    "symbol": "NFLX",
+    "price": 360.78,
+    "volume": 73132,
+    "timestamp": 1759666394
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.71,
+    "volume": 71855,
+    "timestamp": 1759666396
+  },
+  {
+    "symbol": "AAPL",
+    "price": 157.03,
+    "volume": 99771,
+    "timestamp": 1759666398
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.66,
+    "volume": 64653,
+    "timestamp": 1759666400
+  },
+  {
+    "symbol": "NFLX",
+    "price": 339.98,
+    "volume": 53565,
+    "timestamp": 1759666402
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.97,
+    "volume": 1282,
+    "timestamp": 1759666404
+  },
+  {
+    "symbol": "META",
+    "price": 195.3,
+    "volume": 60638,
+    "timestamp": 1759666406
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.08,
+    "volume": 96748,
+    "timestamp": 1759666408
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.62,
+    "volume": 64788,
+    "timestamp": 1759666410
+  },
+  {
+    "symbol": "MSFT",
+    "price": 290.7,
+    "volume": 29534,
+    "timestamp": 1759666412
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.19,
+    "volume": 72066,
+    "timestamp": 1759666414
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.72,
+    "volume": 8492,
+    "timestamp": 1759666416
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.26,
+    "volume": 66909,
+    "timestamp": 1759666418
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.57,
+    "volume": 67562,
+    "timestamp": 1759666420
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.92,
+    "volume": 9981,
+    "timestamp": 1759666422
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.84,
+    "volume": 31828,
+    "timestamp": 1759666424
+  },
+  {
+    "symbol": "META",
+    "price": 192.4,
+    "volume": 75668,
+    "timestamp": 1759666426
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.03,
+    "volume": 6209,
+    "timestamp": 1759666428
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.91,
+    "volume": 87163,
+    "timestamp": 1759666430
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.33,
+    "volume": 42467,
+    "timestamp": 1759666432
+  },
+  {
+    "symbol": "TSLA",
+    "price": 242.61,
+    "volume": 94872,
+    "timestamp": 1759666434
+  },
+  {
+    "symbol": "NVDA",
+    "price": 389.55,
+    "volume": 52876,
+    "timestamp": 1759666436
+  },
+  {
+    "symbol": "MSFT",
+    "price": 305.15,
+    "volume": 40321,
+    "timestamp": 1759666438
+  },
+  {
+    "symbol": "NFLX",
+    "price": 343.57,
+    "volume": 99548,
+    "timestamp": 1759666440
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.13,
+    "volume": 82416,
+    "timestamp": 1759666442
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.48,
+    "volume": 10602,
+    "timestamp": 1759666444
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.13,
+    "volume": 35760,
+    "timestamp": 1759666446
+  },
+  {
+    "symbol": "MSFT",
+    "price": 313.0,
+    "volume": 10016,
+    "timestamp": 1759666448
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.3,
+    "volume": 21676,
+    "timestamp": 1759666450
+  },
+  {
+    "symbol": "NFLX",
+    "price": 361.68,
+    "volume": 93214,
+    "timestamp": 1759666452
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.79,
+    "volume": 86717,
+    "timestamp": 1759666454
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.08,
+    "volume": 73692,
+    "timestamp": 1759666456
+  },
+  {
+    "symbol": "TSLA",
+    "price": 260.79,
+    "volume": 14577,
+    "timestamp": 1759666458
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.93,
+    "volume": 15029,
+    "timestamp": 1759666460
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.55,
+    "volume": 37930,
+    "timestamp": 1759666462
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.55,
+    "volume": 45942,
+    "timestamp": 1759666464
+  },
+  {
+    "symbol": "AMZN",
+    "price": 132.44,
+    "volume": 35600,
+    "timestamp": 1759666466
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.89,
+    "volume": 7658,
+    "timestamp": 1759666468
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.88,
+    "volume": 37265,
+    "timestamp": 1759666470
+  },
+  {
+    "symbol": "AAPL",
+    "price": 142.55,
+    "volume": 18146,
+    "timestamp": 1759666472
+  },
+  {
+    "symbol": "TSLA",
+    "price": 241.54,
+    "volume": 58912,
+    "timestamp": 1759666474
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.06,
+    "volume": 74519,
+    "timestamp": 1759666476
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.18,
+    "volume": 91573,
+    "timestamp": 1759666478
+  },
+  {
+    "symbol": "MSFT",
+    "price": 301.37,
+    "volume": 49393,
+    "timestamp": 1759666480
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.26,
+    "volume": 57333,
+    "timestamp": 1759666482
+  },
+  {
+    "symbol": "MSFT",
+    "price": 286.25,
+    "volume": 48795,
+    "timestamp": 1759666484
+  },
+  {
+    "symbol": "AAPL",
+    "price": 155.98,
+    "volume": 28535,
+    "timestamp": 1759666486
+  },
+  {
+    "symbol": "AMZN",
+    "price": 132.17,
+    "volume": 47357,
+    "timestamp": 1759666488
+  },
+  {
+    "symbol": "BABA",
+    "price": 103.84,
+    "volume": 54264,
+    "timestamp": 1759666490
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.25,
+    "volume": 32029,
+    "timestamp": 1759666492
+  },
+  {
+    "symbol": "MSFT",
+    "price": 314.29,
+    "volume": 24206,
+    "timestamp": 1759666494
+  },
+  {
+    "symbol": "META",
+    "price": 190.5,
+    "volume": 97542,
+    "timestamp": 1759666496
+  },
+  {
+    "symbol": "NVDA",
+    "price": 411.3,
+    "volume": 54964,
+    "timestamp": 1759666498
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.97,
+    "volume": 92917,
+    "timestamp": 1759666500
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 138.36,
+    "volume": 6075,
+    "timestamp": 1759666502
+  },
+  {
+    "symbol": "NFLX",
+    "price": 340.29,
+    "volume": 61332,
+    "timestamp": 1759666504
+  },
+  {
+    "symbol": "NVDA",
+    "price": 392.21,
+    "volume": 30831,
+    "timestamp": 1759666506
+  },
+  {
+    "symbol": "AMZN",
+    "price": 123.81,
+    "volume": 26313,
+    "timestamp": 1759666508
+  },
+  {
+    "symbol": "META",
+    "price": 196.57,
+    "volume": 10099,
+    "timestamp": 1759666510
+  },
+  {
+    "symbol": "TSLA",
+    "price": 246.28,
+    "volume": 67768,
+    "timestamp": 1759666512
+  },
+  {
+    "symbol": "META",
+    "price": 203.59,
+    "volume": 71282,
+    "timestamp": 1759666514
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.57,
+    "volume": 16118,
+    "timestamp": 1759666516
+  },
+  {
+    "symbol": "TSLA",
+    "price": 241.96,
+    "volume": 35795,
+    "timestamp": 1759666518
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.13,
+    "volume": 57959,
+    "timestamp": 1759666520
+  },
+  {
+    "symbol": "NVDA",
+    "price": 409.14,
+    "volume": 42114,
+    "timestamp": 1759666522
+  },
+  {
+    "symbol": "META",
+    "price": 202.12,
+    "volume": 68033,
+    "timestamp": 1759666524
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 138.39,
+    "volume": 76574,
+    "timestamp": 1759666526
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.81,
+    "volume": 93901,
+    "timestamp": 1759666528
+  },
+  {
+    "symbol": "META",
+    "price": 190.03,
+    "volume": 71575,
+    "timestamp": 1759666530
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.23,
+    "volume": 10171,
+    "timestamp": 1759666532
+  },
+  {
+    "symbol": "NVDA",
+    "price": 404.93,
+    "volume": 87951,
+    "timestamp": 1759666534
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.08,
+    "volume": 40363,
+    "timestamp": 1759666536
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.09,
+    "volume": 54528,
+    "timestamp": 1759666538
+  },
+  {
+    "symbol": "NVDA",
+    "price": 396.1,
+    "volume": 39752,
+    "timestamp": 1759666540
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.27,
+    "volume": 56108,
+    "timestamp": 1759666542
+  },
+  {
+    "symbol": "META",
+    "price": 203.55,
+    "volume": 23810,
+    "timestamp": 1759666544
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.35,
+    "volume": 54225,
+    "timestamp": 1759666546
+  },
+  {
+    "symbol": "BABA",
+    "price": 103.34,
+    "volume": 40829,
+    "timestamp": 1759666548
+  },
+  {
+    "symbol": "TSLA",
+    "price": 242.75,
+    "volume": 77019,
+    "timestamp": 1759666550
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.77,
+    "volume": 61946,
+    "timestamp": 1759666552
+  },
+  {
+    "symbol": "NFLX",
+    "price": 347.98,
+    "volume": 29010,
+    "timestamp": 1759666554
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.73,
+    "volume": 97463,
+    "timestamp": 1759666556
+  },
+  {
+    "symbol": "MSFT",
+    "price": 304.77,
+    "volume": 38196,
+    "timestamp": 1759666558
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.64,
+    "volume": 82167,
+    "timestamp": 1759666560
+  },
+  {
+    "symbol": "NVDA",
+    "price": 383.74,
+    "volume": 99453,
+    "timestamp": 1759666562
+  },
+  {
+    "symbol": "AMZN",
+    "price": 132.25,
+    "volume": 30444,
+    "timestamp": 1759666564
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.42,
+    "volume": 7057,
+    "timestamp": 1759666566
+  },
+  {
+    "symbol": "AMZN",
+    "price": 136.29,
+    "volume": 81120,
+    "timestamp": 1759666568
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.38,
+    "volume": 83544,
+    "timestamp": 1759666570
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.47,
+    "volume": 92272,
+    "timestamp": 1759666572
+  },
+  {
+    "symbol": "META",
+    "price": 199.89,
+    "volume": 32979,
+    "timestamp": 1759666574
+  },
+  {
+    "symbol": "MSFT",
+    "price": 304.68,
+    "volume": 1726,
+    "timestamp": 1759666576
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.9,
+    "volume": 29683,
+    "timestamp": 1759666578
+  },
+  {
+    "symbol": "MSFT",
+    "price": 309.12,
+    "volume": 92214,
+    "timestamp": 1759666580
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.65,
+    "volume": 74060,
+    "timestamp": 1759666582
+  },
+  {
+    "symbol": "AMZN",
+    "price": 135.43,
+    "volume": 16906,
+    "timestamp": 1759666584
+  },
+  {
+    "symbol": "NFLX",
+    "price": 337.17,
+    "volume": 61901,
+    "timestamp": 1759666586
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.88,
+    "volume": 79047,
+    "timestamp": 1759666588
+  },
+  {
+    "symbol": "NVDA",
+    "price": 418.0,
+    "volume": 59008,
+    "timestamp": 1759666590
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.58,
+    "volume": 67162,
+    "timestamp": 1759666592
+  },
+  {
+    "symbol": "META",
+    "price": 206.61,
+    "volume": 72810,
+    "timestamp": 1759666594
+  },
+  {
+    "symbol": "NFLX",
+    "price": 363.9,
+    "volume": 98472,
+    "timestamp": 1759666596
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.25,
+    "volume": 99536,
+    "timestamp": 1759666598
+  },
+  {
+    "symbol": "AMZN",
+    "price": 134.42,
+    "volume": 37347,
+    "timestamp": 1759666600
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.85,
+    "volume": 32358,
+    "timestamp": 1759666602
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.5,
+    "volume": 94525,
+    "timestamp": 1759666604
+  },
+  {
+    "symbol": "TSLA",
+    "price": 243.36,
+    "volume": 45020,
+    "timestamp": 1759666606
+  },
+  {
+    "symbol": "NVDA",
+    "price": 415.72,
+    "volume": 11561,
+    "timestamp": 1759666608
+  },
+  {
+    "symbol": "MSFT",
+    "price": 289.52,
+    "volume": 51205,
+    "timestamp": 1759666610
+  },
+  {
+    "symbol": "MSFT",
+    "price": 306.19,
+    "volume": 9418,
+    "timestamp": 1759666612
+  },
+  {
+    "symbol": "META",
+    "price": 198.15,
+    "volume": 72121,
+    "timestamp": 1759666614
+  },
+  {
+    "symbol": "NFLX",
+    "price": 347.05,
+    "volume": 28110,
+    "timestamp": 1759666616
+  },
+  {
+    "symbol": "META",
+    "price": 197.79,
+    "volume": 77556,
+    "timestamp": 1759666618
+  },
+  {
+    "symbol": "AAPL",
+    "price": 155.35,
+    "volume": 76456,
+    "timestamp": 1759666620
+  },
+  {
+    "symbol": "META",
+    "price": 199.54,
+    "volume": 47105,
+    "timestamp": 1759666622
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.34,
+    "volume": 55921,
+    "timestamp": 1759666624
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.48,
+    "volume": 72582,
+    "timestamp": 1759666626
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.99,
+    "volume": 64993,
+    "timestamp": 1759666628
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.05,
+    "volume": 64654,
+    "timestamp": 1759666630
+  },
+  {
+    "symbol": "AAPL",
+    "price": 148.33,
+    "volume": 88670,
+    "timestamp": 1759666632
+  },
+  {
+    "symbol": "META",
+    "price": 204.48,
+    "volume": 62261,
+    "timestamp": 1759666634
+  },
+  {
+    "symbol": "MSFT",
+    "price": 314.42,
+    "volume": 71008,
+    "timestamp": 1759666636
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.1,
+    "volume": 78580,
+    "timestamp": 1759666638
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.81,
+    "volume": 12003,
+    "timestamp": 1759666640
+  },
+  {
+    "symbol": "META",
+    "price": 192.71,
+    "volume": 61515,
+    "timestamp": 1759666642
+  },
+  {
+    "symbol": "MSFT",
+    "price": 286.51,
+    "volume": 50689,
+    "timestamp": 1759666644
+  },
+  {
+    "symbol": "NVDA",
+    "price": 388.47,
+    "volume": 43840,
+    "timestamp": 1759666646
+  },
+  {
+    "symbol": "NVDA",
+    "price": 410.45,
+    "volume": 50692,
+    "timestamp": 1759666648
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.3,
+    "volume": 56255,
+    "timestamp": 1759666650
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.37,
+    "volume": 62644,
+    "timestamp": 1759666652
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.74,
+    "volume": 7826,
+    "timestamp": 1759666654
+  },
+  {
+    "symbol": "NVDA",
+    "price": 388.97,
+    "volume": 9993,
+    "timestamp": 1759666656
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.81,
+    "volume": 33411,
+    "timestamp": 1759666658
+  },
+  {
+    "symbol": "AMZN",
+    "price": 134.41,
+    "volume": 82439,
+    "timestamp": 1759666660
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.16,
+    "volume": 63070,
+    "timestamp": 1759666662
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.9,
+    "volume": 29569,
+    "timestamp": 1759666664
+  },
+  {
+    "symbol": "NFLX",
+    "price": 356.98,
+    "volume": 49351,
+    "timestamp": 1759666666
+  },
+  {
+    "symbol": "MSFT",
+    "price": 303.18,
+    "volume": 99032,
+    "timestamp": 1759666668
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.89,
+    "volume": 22465,
+    "timestamp": 1759666670
+  },
+  {
+    "symbol": "TSLA",
+    "price": 240.2,
+    "volume": 4365,
+    "timestamp": 1759666672
+  },
+  {
+    "symbol": "TSLA",
+    "price": 251.89,
+    "volume": 50192,
+    "timestamp": 1759666674
+  },
+  {
+    "symbol": "META",
+    "price": 208.83,
+    "volume": 26995,
+    "timestamp": 1759666676
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.29,
+    "volume": 83213,
+    "timestamp": 1759666678
+  },
+  {
+    "symbol": "AMZN",
+    "price": 124.82,
+    "volume": 40529,
+    "timestamp": 1759666680
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.53,
+    "volume": 75177,
+    "timestamp": 1759666682
+  },
+  {
+    "symbol": "AAPL",
+    "price": 147.71,
+    "volume": 57148,
+    "timestamp": 1759666684
+  },
+  {
+    "symbol": "NVDA",
+    "price": 382.76,
+    "volume": 85874,
+    "timestamp": 1759666686
+  },
+  {
+    "symbol": "NVDA",
+    "price": 380.51,
+    "volume": 56057,
+    "timestamp": 1759666688
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.19,
+    "volume": 48472,
+    "timestamp": 1759666690
+  },
+  {
+    "symbol": "NFLX",
+    "price": 357.26,
+    "volume": 58080,
+    "timestamp": 1759666692
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.01,
+    "volume": 86256,
+    "timestamp": 1759666694
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.9,
+    "volume": 71539,
+    "timestamp": 1759666696
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.77,
+    "volume": 96817,
+    "timestamp": 1759666698
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.84,
+    "volume": 33177,
+    "timestamp": 1759666700
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.9,
+    "volume": 60087,
+    "timestamp": 1759666702
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.26,
+    "volume": 75691,
+    "timestamp": 1759666704
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.84,
+    "volume": 45092,
+    "timestamp": 1759666706
+  },
+  {
+    "symbol": "AAPL",
+    "price": 149.91,
+    "volume": 43600,
+    "timestamp": 1759666708
+  },
+  {
+    "symbol": "MSFT",
+    "price": 299.63,
+    "volume": 47507,
+    "timestamp": 1759666710
+  },
+  {
+    "symbol": "TSLA",
+    "price": 246.01,
+    "volume": 79139,
+    "timestamp": 1759666712
+  },
+  {
+    "symbol": "TSLA",
+    "price": 251.39,
+    "volume": 68715,
+    "timestamp": 1759666714
+  },
+  {
+    "symbol": "AMZN",
+    "price": 124.61,
+    "volume": 95381,
+    "timestamp": 1759666716
+  },
+  {
+    "symbol": "META",
+    "price": 199.77,
+    "volume": 32499,
+    "timestamp": 1759666718
+  },
+  {
+    "symbol": "NFLX",
+    "price": 355.11,
+    "volume": 65332,
+    "timestamp": 1759666720
+  },
+  {
+    "symbol": "NFLX",
+    "price": 360.25,
+    "volume": 13196,
+    "timestamp": 1759666722
+  },
+  {
+    "symbol": "TSLA",
+    "price": 243.04,
+    "volume": 91673,
+    "timestamp": 1759666724
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.48,
+    "volume": 77225,
+    "timestamp": 1759666726
+  },
+  {
+    "symbol": "NVDA",
+    "price": 398.93,
+    "volume": 70588,
+    "timestamp": 1759666728
+  },
+  {
+    "symbol": "NVDA",
+    "price": 397.02,
+    "volume": 98771,
+    "timestamp": 1759666730
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.31,
+    "volume": 93124,
+    "timestamp": 1759666732
+  },
+  {
+    "symbol": "NFLX",
+    "price": 341.98,
+    "volume": 33951,
+    "timestamp": 1759666734
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.07,
+    "volume": 26242,
+    "timestamp": 1759666736
+  },
+  {
+    "symbol": "NVDA",
+    "price": 384.78,
+    "volume": 71236,
+    "timestamp": 1759666738
+  },
+  {
+    "symbol": "MSFT",
+    "price": 290.75,
+    "volume": 97810,
+    "timestamp": 1759666740
+  },
+  {
+    "symbol": "NFLX",
+    "price": 342.18,
+    "volume": 78278,
+    "timestamp": 1759666742
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.97,
+    "volume": 14176,
+    "timestamp": 1759666744
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.35,
+    "volume": 48301,
+    "timestamp": 1759666746
+  },
+  {
+    "symbol": "MSFT",
+    "price": 294.07,
+    "volume": 93801,
+    "timestamp": 1759666748
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.27,
+    "volume": 6965,
+    "timestamp": 1759666750
+  },
+  {
+    "symbol": "AAPL",
+    "price": 150.8,
+    "volume": 92411,
+    "timestamp": 1759666752
+  },
+  {
+    "symbol": "MSFT",
+    "price": 304.14,
+    "volume": 99669,
+    "timestamp": 1759666754
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.09,
+    "volume": 2607,
+    "timestamp": 1759666756
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.92,
+    "volume": 63746,
+    "timestamp": 1759666758
+  },
+  {
+    "symbol": "NFLX",
+    "price": 344.42,
+    "volume": 7734,
+    "timestamp": 1759666760
+  },
+  {
+    "symbol": "TSLA",
+    "price": 261.03,
+    "volume": 63616,
+    "timestamp": 1759666762
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.51,
+    "volume": 53521,
+    "timestamp": 1759666764
+  },
+  {
+    "symbol": "NFLX",
+    "price": 335.09,
+    "volume": 83502,
+    "timestamp": 1759666766
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.78,
+    "volume": 74772,
+    "timestamp": 1759666768
+  },
+  {
+    "symbol": "TSLA",
+    "price": 239.63,
+    "volume": 33530,
+    "timestamp": 1759666770
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.81,
+    "volume": 55548,
+    "timestamp": 1759666772
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.48,
+    "volume": 82057,
+    "timestamp": 1759666774
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.58,
+    "volume": 50856,
+    "timestamp": 1759666776
+  },
+  {
+    "symbol": "NFLX",
+    "price": 364.3,
+    "volume": 39974,
+    "timestamp": 1759666778
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.45,
+    "volume": 41026,
+    "timestamp": 1759666780
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.61,
+    "volume": 80905,
+    "timestamp": 1759666782
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 146.27,
+    "volume": 28235,
+    "timestamp": 1759666784
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.94,
+    "volume": 11641,
+    "timestamp": 1759666786
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.2,
+    "volume": 73350,
+    "timestamp": 1759666788
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 135.19,
+    "volume": 54545,
+    "timestamp": 1759666790
+  },
+  {
+    "symbol": "NFLX",
+    "price": 356.63,
+    "volume": 62592,
+    "timestamp": 1759666792
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.32,
+    "volume": 38762,
+    "timestamp": 1759666794
+  },
+  {
+    "symbol": "TSLA",
+    "price": 255.07,
+    "volume": 60510,
+    "timestamp": 1759666796
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.62,
+    "volume": 35675,
+    "timestamp": 1759666798
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.81,
+    "volume": 26928,
+    "timestamp": 1759666800
+  },
+  {
+    "symbol": "META",
+    "price": 192.3,
+    "volume": 30466,
+    "timestamp": 1759666802
+  },
+  {
+    "symbol": "MSFT",
+    "price": 312.25,
+    "volume": 19643,
+    "timestamp": 1759666804
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.83,
+    "volume": 41319,
+    "timestamp": 1759666806
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.24,
+    "volume": 75607,
+    "timestamp": 1759666808
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.48,
+    "volume": 62433,
+    "timestamp": 1759666810
+  },
+  {
+    "symbol": "TSLA",
+    "price": 254.99,
+    "volume": 36683,
+    "timestamp": 1759666812
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.4,
+    "volume": 58377,
+    "timestamp": 1759666814
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.37,
+    "volume": 57626,
+    "timestamp": 1759666816
+  },
+  {
+    "symbol": "NVDA",
+    "price": 404.15,
+    "volume": 4390,
+    "timestamp": 1759666818
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.2,
+    "volume": 89381,
+    "timestamp": 1759666820
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.44,
+    "volume": 3719,
+    "timestamp": 1759666822
+  },
+  {
+    "symbol": "TSLA",
+    "price": 251.91,
+    "volume": 23962,
+    "timestamp": 1759666824
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.66,
+    "volume": 58963,
+    "timestamp": 1759666826
+  },
+  {
+    "symbol": "TSLA",
+    "price": 242.04,
+    "volume": 77720,
+    "timestamp": 1759666828
+  },
+  {
+    "symbol": "META",
+    "price": 202.7,
+    "volume": 65451,
+    "timestamp": 1759666830
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.58,
+    "volume": 54523,
+    "timestamp": 1759666832
+  },
+  {
+    "symbol": "NVDA",
+    "price": 392.84,
+    "volume": 14710,
+    "timestamp": 1759666834
+  },
+  {
+    "symbol": "MSFT",
+    "price": 294.89,
+    "volume": 91921,
+    "timestamp": 1759666836
+  },
+  {
+    "symbol": "NFLX",
+    "price": 342.59,
+    "volume": 53488,
+    "timestamp": 1759666838
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.37,
+    "volume": 12542,
+    "timestamp": 1759666840
+  },
+  {
+    "symbol": "NVDA",
+    "price": 390.1,
+    "volume": 16194,
+    "timestamp": 1759666842
+  },
+  {
+    "symbol": "META",
+    "price": 207.3,
+    "volume": 1150,
+    "timestamp": 1759666844
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.62,
+    "volume": 8104,
+    "timestamp": 1759666846
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.24,
+    "volume": 82609,
+    "timestamp": 1759666848
+  },
+  {
+    "symbol": "NFLX",
+    "price": 354.39,
+    "volume": 7764,
+    "timestamp": 1759666850
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.97,
+    "volume": 18172,
+    "timestamp": 1759666852
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.45,
+    "volume": 92521,
+    "timestamp": 1759666854
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.75,
+    "volume": 83578,
+    "timestamp": 1759666856
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.5,
+    "volume": 94032,
+    "timestamp": 1759666858
+  },
+  {
+    "symbol": "MSFT",
+    "price": 294.32,
+    "volume": 2792,
+    "timestamp": 1759666860
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.08,
+    "volume": 30451,
+    "timestamp": 1759666862
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.46,
+    "volume": 16396,
+    "timestamp": 1759666864
+  },
+  {
+    "symbol": "MSFT",
+    "price": 299.95,
+    "volume": 94926,
+    "timestamp": 1759666866
+  },
+  {
+    "symbol": "TSLA",
+    "price": 250.22,
+    "volume": 36838,
+    "timestamp": 1759666868
+  },
+  {
+    "symbol": "META",
+    "price": 206.69,
+    "volume": 62894,
+    "timestamp": 1759666870
+  },
+  {
+    "symbol": "AMZN",
+    "price": 129.44,
+    "volume": 19958,
+    "timestamp": 1759666872
+  },
+  {
+    "symbol": "META",
+    "price": 193.81,
+    "volume": 79561,
+    "timestamp": 1759666874
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.46,
+    "volume": 18892,
+    "timestamp": 1759666876
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.87,
+    "volume": 55387,
+    "timestamp": 1759666878
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.37,
+    "volume": 67550,
+    "timestamp": 1759666880
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.01,
+    "volume": 38072,
+    "timestamp": 1759666882
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.44,
+    "volume": 77011,
+    "timestamp": 1759666884
+  },
+  {
+    "symbol": "NFLX",
+    "price": 362.78,
+    "volume": 59529,
+    "timestamp": 1759666886
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.84,
+    "volume": 44573,
+    "timestamp": 1759666888
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.63,
+    "volume": 50441,
+    "timestamp": 1759666890
+  },
+  {
+    "symbol": "NFLX",
+    "price": 365.15,
+    "volume": 25727,
+    "timestamp": 1759666892
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.93,
+    "volume": 31613,
+    "timestamp": 1759666894
+  },
+  {
+    "symbol": "META",
+    "price": 190.87,
+    "volume": 98609,
+    "timestamp": 1759666896
+  },
+  {
+    "symbol": "NFLX",
+    "price": 357.18,
+    "volume": 50968,
+    "timestamp": 1759666898
+  },
+  {
+    "symbol": "META",
+    "price": 209.77,
+    "volume": 86461,
+    "timestamp": 1759666900
+  },
+  {
+    "symbol": "MSFT",
+    "price": 299.86,
+    "volume": 5852,
+    "timestamp": 1759666902
+  },
+  {
+    "symbol": "MSFT",
+    "price": 300.07,
+    "volume": 78356,
+    "timestamp": 1759666904
+  },
+  {
+    "symbol": "NVDA",
+    "price": 414.79,
+    "volume": 58711,
+    "timestamp": 1759666906
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.36,
+    "volume": 60890,
+    "timestamp": 1759666908
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.34,
+    "volume": 54736,
+    "timestamp": 1759666910
+  },
+  {
+    "symbol": "MSFT",
+    "price": 287.24,
+    "volume": 35737,
+    "timestamp": 1759666912
+  },
+  {
+    "symbol": "NVDA",
+    "price": 404.93,
+    "volume": 53098,
+    "timestamp": 1759666914
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.92,
+    "volume": 89389,
+    "timestamp": 1759666916
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.8,
+    "volume": 42505,
+    "timestamp": 1759666918
+  },
+  {
+    "symbol": "NFLX",
+    "price": 363.03,
+    "volume": 5705,
+    "timestamp": 1759666920
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.84,
+    "volume": 83727,
+    "timestamp": 1759666922
+  },
+  {
+    "symbol": "TSLA",
+    "price": 262.44,
+    "volume": 98880,
+    "timestamp": 1759666924
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.08,
+    "volume": 13903,
+    "timestamp": 1759666926
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.21,
+    "volume": 91964,
+    "timestamp": 1759666928
+  },
+  {
+    "symbol": "TSLA",
+    "price": 260.09,
+    "volume": 7028,
+    "timestamp": 1759666930
+  },
+  {
+    "symbol": "NVDA",
+    "price": 411.85,
+    "volume": 39452,
+    "timestamp": 1759666932
+  },
+  {
+    "symbol": "NVDA",
+    "price": 394.99,
+    "volume": 20080,
+    "timestamp": 1759666934
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.41,
+    "volume": 75177,
+    "timestamp": 1759666936
+  },
+  {
+    "symbol": "MSFT",
+    "price": 290.1,
+    "volume": 11350,
+    "timestamp": 1759666938
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.85,
+    "volume": 82226,
+    "timestamp": 1759666940
+  },
+  {
+    "symbol": "AMZN",
+    "price": 129.97,
+    "volume": 77435,
+    "timestamp": 1759666942
+  },
+  {
+    "symbol": "MSFT",
+    "price": 291.97,
+    "volume": 84611,
+    "timestamp": 1759666944
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.99,
+    "volume": 88404,
+    "timestamp": 1759666946
+  },
+  {
+    "symbol": "AAPL",
+    "price": 155.98,
+    "volume": 61981,
+    "timestamp": 1759666948
+  },
+  {
+    "symbol": "TSLA",
+    "price": 254.44,
+    "volume": 21706,
+    "timestamp": 1759666950
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.18,
+    "volume": 46293,
+    "timestamp": 1759666952
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.0,
+    "volume": 56615,
+    "timestamp": 1759666954
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.92,
+    "volume": 40599,
+    "timestamp": 1759666956
+  },
+  {
+    "symbol": "AMZN",
+    "price": 136.49,
+    "volume": 64335,
+    "timestamp": 1759666958
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.32,
+    "volume": 75963,
+    "timestamp": 1759666960
+  },
+  {
+    "symbol": "NVDA",
+    "price": 402.99,
+    "volume": 92655,
+    "timestamp": 1759666962
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.05,
+    "volume": 87275,
+    "timestamp": 1759666964
+  },
+  {
+    "symbol": "META",
+    "price": 195.49,
+    "volume": 75177,
+    "timestamp": 1759666966
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.16,
+    "volume": 98671,
+    "timestamp": 1759666968
+  },
+  {
+    "symbol": "NFLX",
+    "price": 361.65,
+    "volume": 38512,
+    "timestamp": 1759666970
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.39,
+    "volume": 47179,
+    "timestamp": 1759666972
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.78,
+    "volume": 82381,
+    "timestamp": 1759666974
+  },
+  {
+    "symbol": "TSLA",
+    "price": 254.44,
+    "volume": 95493,
+    "timestamp": 1759666976
+  },
+  {
+    "symbol": "MSFT",
+    "price": 303.85,
+    "volume": 83242,
+    "timestamp": 1759666978
+  },
+  {
+    "symbol": "AAPL",
+    "price": 147.13,
+    "volume": 58779,
+    "timestamp": 1759666980
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.19,
+    "volume": 96991,
+    "timestamp": 1759666982
+  },
+  {
+    "symbol": "MSFT",
+    "price": 287.7,
+    "volume": 39680,
+    "timestamp": 1759666984
+  },
+  {
+    "symbol": "NVDA",
+    "price": 409.9,
+    "volume": 24021,
+    "timestamp": 1759666986
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.22,
+    "volume": 71701,
+    "timestamp": 1759666988
+  },
+  {
+    "symbol": "NVDA",
+    "price": 401.23,
+    "volume": 36720,
+    "timestamp": 1759666990
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.71,
+    "volume": 64156,
+    "timestamp": 1759666992
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.16,
+    "volume": 45396,
+    "timestamp": 1759666994
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.56,
+    "volume": 10869,
+    "timestamp": 1759666996
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.62,
+    "volume": 30571,
+    "timestamp": 1759666998
+  },
+  {
+    "symbol": "META",
+    "price": 209.35,
+    "volume": 74048,
+    "timestamp": 1759667000
+  },
+  {
+    "symbol": "NVDA",
+    "price": 383.61,
+    "volume": 52717,
+    "timestamp": 1759667002
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.47,
+    "volume": 17199,
+    "timestamp": 1759667004
+  },
+  {
+    "symbol": "NFLX",
+    "price": 345.4,
+    "volume": 99174,
+    "timestamp": 1759667006
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.11,
+    "volume": 84695,
+    "timestamp": 1759667008
+  },
+  {
+    "symbol": "NVDA",
+    "price": 384.33,
+    "volume": 31647,
+    "timestamp": 1759667010
+  },
+  {
+    "symbol": "NFLX",
+    "price": 333.38,
+    "volume": 74584,
+    "timestamp": 1759667012
+  },
+  {
+    "symbol": "NVDA",
+    "price": 416.61,
+    "volume": 30015,
+    "timestamp": 1759667014
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.9,
+    "volume": 61852,
+    "timestamp": 1759667016
+  },
+  {
+    "symbol": "TSLA",
+    "price": 253.73,
+    "volume": 16292,
+    "timestamp": 1759667018
+  },
+  {
+    "symbol": "MSFT",
+    "price": 286.36,
+    "volume": 5877,
+    "timestamp": 1759667020
+  },
+  {
+    "symbol": "TSLA",
+    "price": 262.4,
+    "volume": 16220,
+    "timestamp": 1759667022
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.29,
+    "volume": 71457,
+    "timestamp": 1759667024
+  },
+  {
+    "symbol": "MSFT",
+    "price": 296.66,
+    "volume": 49629,
+    "timestamp": 1759667026
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.19,
+    "volume": 98290,
+    "timestamp": 1759667028
+  },
+  {
+    "symbol": "MSFT",
+    "price": 311.56,
+    "volume": 86841,
+    "timestamp": 1759667030
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.67,
+    "volume": 81694,
+    "timestamp": 1759667032
+  },
+  {
+    "symbol": "META",
+    "price": 208.78,
+    "volume": 37666,
+    "timestamp": 1759667034
+  },
+  {
+    "symbol": "AAPL",
+    "price": 152.85,
+    "volume": 29477,
+    "timestamp": 1759667036
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.06,
+    "volume": 31947,
+    "timestamp": 1759667038
+  },
+  {
+    "symbol": "NVDA",
+    "price": 383.97,
+    "volume": 90873,
+    "timestamp": 1759667040
+  },
+  {
+    "symbol": "NVDA",
+    "price": 401.78,
+    "volume": 85518,
+    "timestamp": 1759667042
+  },
+  {
+    "symbol": "NVDA",
+    "price": 382.42,
+    "volume": 37160,
+    "timestamp": 1759667044
+  },
+  {
+    "symbol": "AMZN",
+    "price": 136.09,
+    "volume": 60600,
+    "timestamp": 1759667046
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.28,
+    "volume": 85109,
+    "timestamp": 1759667048
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.36,
+    "volume": 7629,
+    "timestamp": 1759667050
+  },
+  {
+    "symbol": "NVDA",
+    "price": 389.74,
+    "volume": 17505,
+    "timestamp": 1759667052
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.53,
+    "volume": 73641,
+    "timestamp": 1759667054
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.12,
+    "volume": 31539,
+    "timestamp": 1759667056
+  },
+  {
+    "symbol": "NVDA",
+    "price": 410.97,
+    "volume": 79116,
+    "timestamp": 1759667058
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.66,
+    "volume": 19964,
+    "timestamp": 1759667060
+  },
+  {
+    "symbol": "MSFT",
+    "price": 301.21,
+    "volume": 23871,
+    "timestamp": 1759667062
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.25,
+    "volume": 4379,
+    "timestamp": 1759667064
+  },
+  {
+    "symbol": "MSFT",
+    "price": 285.45,
+    "volume": 32186,
+    "timestamp": 1759667066
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.12,
+    "volume": 23838,
+    "timestamp": 1759667068
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.81,
+    "volume": 98218,
+    "timestamp": 1759667070
+  },
+  {
+    "symbol": "META",
+    "price": 200.52,
+    "volume": 98735,
+    "timestamp": 1759667072
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.67,
+    "volume": 48453,
+    "timestamp": 1759667074
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.94,
+    "volume": 60245,
+    "timestamp": 1759667076
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.22,
+    "volume": 81623,
+    "timestamp": 1759667078
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.41,
+    "volume": 87363,
+    "timestamp": 1759667080
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.02,
+    "volume": 85323,
+    "timestamp": 1759667082
+  },
+  {
+    "symbol": "AAPL",
+    "price": 143.41,
+    "volume": 63781,
+    "timestamp": 1759667084
+  },
+  {
+    "symbol": "META",
+    "price": 198.53,
+    "volume": 15150,
+    "timestamp": 1759667086
+  },
+  {
+    "symbol": "NFLX",
+    "price": 357.43,
+    "volume": 59138,
+    "timestamp": 1759667088
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 145.59,
+    "volume": 43219,
+    "timestamp": 1759667090
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.24,
+    "volume": 17540,
+    "timestamp": 1759667092
+  },
+  {
+    "symbol": "TSLA",
+    "price": 253.11,
+    "volume": 77724,
+    "timestamp": 1759667094
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.12,
+    "volume": 50925,
+    "timestamp": 1759667096
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.15,
+    "volume": 60469,
+    "timestamp": 1759667098
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.05,
+    "volume": 13999,
+    "timestamp": 1759667100
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.94,
+    "volume": 86316,
+    "timestamp": 1759667102
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.21,
+    "volume": 29183,
+    "timestamp": 1759667104
+  },
+  {
+    "symbol": "META",
+    "price": 199.03,
+    "volume": 30949,
+    "timestamp": 1759667106
+  },
+  {
+    "symbol": "META",
+    "price": 196.78,
+    "volume": 60441,
+    "timestamp": 1759667108
+  },
+  {
+    "symbol": "META",
+    "price": 198.32,
+    "volume": 13463,
+    "timestamp": 1759667110
+  },
+  {
+    "symbol": "NVDA",
+    "price": 397.07,
+    "volume": 88177,
+    "timestamp": 1759667112
+  },
+  {
+    "symbol": "TSLA",
+    "price": 246.86,
+    "volume": 21006,
+    "timestamp": 1759667114
+  },
+  {
+    "symbol": "NFLX",
+    "price": 334.85,
+    "volume": 12188,
+    "timestamp": 1759667116
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.05,
+    "volume": 98594,
+    "timestamp": 1759667118
+  },
+  {
+    "symbol": "NVDA",
+    "price": 412.47,
+    "volume": 73924,
+    "timestamp": 1759667120
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.3,
+    "volume": 74608,
+    "timestamp": 1759667122
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.3,
+    "volume": 17021,
+    "timestamp": 1759667124
+  },
+  {
+    "symbol": "META",
+    "price": 197.07,
+    "volume": 88207,
+    "timestamp": 1759667126
+  },
+  {
+    "symbol": "META",
+    "price": 207.36,
+    "volume": 95510,
+    "timestamp": 1759667128
+  },
+  {
+    "symbol": "AAPL",
+    "price": 157.03,
+    "volume": 79696,
+    "timestamp": 1759667130
+  },
+  {
+    "symbol": "TSLA",
+    "price": 246.29,
+    "volume": 76748,
+    "timestamp": 1759667132
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.13,
+    "volume": 87079,
+    "timestamp": 1759667134
+  },
+  {
+    "symbol": "NFLX",
+    "price": 340.35,
+    "volume": 15184,
+    "timestamp": 1759667136
+  },
+  {
+    "symbol": "NVDA",
+    "price": 413.81,
+    "volume": 49176,
+    "timestamp": 1759667138
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.68,
+    "volume": 76248,
+    "timestamp": 1759667140
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.99,
+    "volume": 74526,
+    "timestamp": 1759667142
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.57,
+    "volume": 85239,
+    "timestamp": 1759667144
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.26,
+    "volume": 87223,
+    "timestamp": 1759667146
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.22,
+    "volume": 36818,
+    "timestamp": 1759667148
+  },
+  {
+    "symbol": "TSLA",
+    "price": 260.54,
+    "volume": 47009,
+    "timestamp": 1759667150
+  },
+  {
+    "symbol": "AAPL",
+    "price": 145.22,
+    "volume": 19776,
+    "timestamp": 1759667152
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.79,
+    "volume": 10120,
+    "timestamp": 1759667154
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.23,
+    "volume": 5018,
+    "timestamp": 1759667156
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.45,
+    "volume": 29197,
+    "timestamp": 1759667158
+  },
+  {
+    "symbol": "META",
+    "price": 198.4,
+    "volume": 45681,
+    "timestamp": 1759667160
+  },
+  {
+    "symbol": "MSFT",
+    "price": 296.1,
+    "volume": 95581,
+    "timestamp": 1759667162
+  },
+  {
+    "symbol": "NVDA",
+    "price": 411.07,
+    "volume": 75395,
+    "timestamp": 1759667164
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.92,
+    "volume": 7895,
+    "timestamp": 1759667166
+  },
+  {
+    "symbol": "MSFT",
+    "price": 289.72,
+    "volume": 81981,
+    "timestamp": 1759667168
+  },
+  {
+    "symbol": "AAPL",
+    "price": 152.61,
+    "volume": 36665,
+    "timestamp": 1759667170
+  },
+  {
+    "symbol": "NFLX",
+    "price": 355.67,
+    "volume": 64656,
+    "timestamp": 1759667172
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.71,
+    "volume": 36804,
+    "timestamp": 1759667174
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.31,
+    "volume": 15918,
+    "timestamp": 1759667176
+  },
+  {
+    "symbol": "NVDA",
+    "price": 397.2,
+    "volume": 38125,
+    "timestamp": 1759667178
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.93,
+    "volume": 88442,
+    "timestamp": 1759667180
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.64,
+    "volume": 52807,
+    "timestamp": 1759667182
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.77,
+    "volume": 27794,
+    "timestamp": 1759667184
+  },
+  {
+    "symbol": "TSLA",
+    "price": 261.13,
+    "volume": 18987,
+    "timestamp": 1759667186
+  },
+  {
+    "symbol": "TSLA",
+    "price": 244.74,
+    "volume": 16726,
+    "timestamp": 1759667188
+  },
+  {
+    "symbol": "AAPL",
+    "price": 149.96,
+    "volume": 57446,
+    "timestamp": 1759667190
+  },
+  {
+    "symbol": "MSFT",
+    "price": 288.88,
+    "volume": 70806,
+    "timestamp": 1759667192
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.0,
+    "volume": 88562,
+    "timestamp": 1759667194
+  },
+  {
+    "symbol": "NVDA",
+    "price": 382.88,
+    "volume": 98260,
+    "timestamp": 1759667196
+  },
+  {
+    "symbol": "AAPL",
+    "price": 149.04,
+    "volume": 61260,
+    "timestamp": 1759667198
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 145.07,
+    "volume": 76465,
+    "timestamp": 1759667200
+  },
+  {
+    "symbol": "META",
+    "price": 201.47,
+    "volume": 93995,
+    "timestamp": 1759667202
+  },
+  {
+    "symbol": "META",
+    "price": 195.79,
+    "volume": 54088,
+    "timestamp": 1759667204
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.99,
+    "volume": 23527,
+    "timestamp": 1759667206
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.8,
+    "volume": 91388,
+    "timestamp": 1759667208
+  },
+  {
+    "symbol": "NVDA",
+    "price": 383.53,
+    "volume": 14875,
+    "timestamp": 1759667210
+  },
+  {
+    "symbol": "AMZN",
+    "price": 129.16,
+    "volume": 53487,
+    "timestamp": 1759667212
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.79,
+    "volume": 41668,
+    "timestamp": 1759667214
+  },
+  {
+    "symbol": "NVDA",
+    "price": 388.86,
+    "volume": 23037,
+    "timestamp": 1759667216
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.15,
+    "volume": 15945,
+    "timestamp": 1759667218
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.1,
+    "volume": 46793,
+    "timestamp": 1759667220
+  },
+  {
+    "symbol": "NVDA",
+    "price": 409.1,
+    "volume": 85599,
+    "timestamp": 1759667222
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.09,
+    "volume": 20194,
+    "timestamp": 1759667224
+  },
+  {
+    "symbol": "TSLA",
+    "price": 242.43,
+    "volume": 79957,
+    "timestamp": 1759667226
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.81,
+    "volume": 86918,
+    "timestamp": 1759667228
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 135.48,
+    "volume": 83306,
+    "timestamp": 1759667230
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.74,
+    "volume": 74889,
+    "timestamp": 1759667232
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.74,
+    "volume": 74989,
+    "timestamp": 1759667234
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.12,
+    "volume": 83210,
+    "timestamp": 1759667236
+  },
+  {
+    "symbol": "NVDA",
+    "price": 386.04,
+    "volume": 9950,
+    "timestamp": 1759667238
+  },
+  {
+    "symbol": "NFLX",
+    "price": 347.98,
+    "volume": 40691,
+    "timestamp": 1759667240
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.29,
+    "volume": 47129,
+    "timestamp": 1759667242
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.74,
+    "volume": 61521,
+    "timestamp": 1759667244
+  },
+  {
+    "symbol": "NFLX",
+    "price": 333.82,
+    "volume": 49331,
+    "timestamp": 1759667246
+  },
+  {
+    "symbol": "TSLA",
+    "price": 239.42,
+    "volume": 12835,
+    "timestamp": 1759667248
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.47,
+    "volume": 51394,
+    "timestamp": 1759667250
+  },
+  {
+    "symbol": "NFLX",
+    "price": 352.81,
+    "volume": 97851,
+    "timestamp": 1759667252
+  },
+  {
+    "symbol": "AAPL",
+    "price": 149.25,
+    "volume": 75928,
+    "timestamp": 1759667254
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.68,
+    "volume": 63341,
+    "timestamp": 1759667256
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.51,
+    "volume": 9109,
+    "timestamp": 1759667258
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.12,
+    "volume": 46015,
+    "timestamp": 1759667260
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.06,
+    "volume": 23617,
+    "timestamp": 1759667262
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.22,
+    "volume": 58377,
+    "timestamp": 1759667264
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.84,
+    "volume": 80928,
+    "timestamp": 1759667266
+  },
+  {
+    "symbol": "MSFT",
+    "price": 295.92,
+    "volume": 38079,
+    "timestamp": 1759667268
+  },
+  {
+    "symbol": "META",
+    "price": 198.18,
+    "volume": 45350,
+    "timestamp": 1759667270
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.76,
+    "volume": 83691,
+    "timestamp": 1759667272
+  },
+  {
+    "symbol": "NVDA",
+    "price": 382.64,
+    "volume": 13387,
+    "timestamp": 1759667274
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.78,
+    "volume": 38243,
+    "timestamp": 1759667276
+  },
+  {
+    "symbol": "TSLA",
+    "price": 255.59,
+    "volume": 87057,
+    "timestamp": 1759667278
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.87,
+    "volume": 44694,
+    "timestamp": 1759667280
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.16,
+    "volume": 19537,
+    "timestamp": 1759667282
+  },
+  {
+    "symbol": "NVDA",
+    "price": 392.41,
+    "volume": 86990,
+    "timestamp": 1759667284
+  },
+  {
+    "symbol": "META",
+    "price": 192.58,
+    "volume": 93908,
+    "timestamp": 1759667286
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.33,
+    "volume": 50372,
+    "timestamp": 1759667288
+  },
+  {
+    "symbol": "NVDA",
+    "price": 412.53,
+    "volume": 88833,
+    "timestamp": 1759667290
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.93,
+    "volume": 88878,
+    "timestamp": 1759667292
+  },
+  {
+    "symbol": "META",
+    "price": 200.17,
+    "volume": 3389,
+    "timestamp": 1759667294
+  },
+  {
+    "symbol": "NVDA",
+    "price": 392.35,
+    "volume": 29074,
+    "timestamp": 1759667296
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.91,
+    "volume": 64736,
+    "timestamp": 1759667298
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.45,
+    "volume": 19030,
+    "timestamp": 1759667300
+  },
+  {
+    "symbol": "MSFT",
+    "price": 287.31,
+    "volume": 14256,
+    "timestamp": 1759667302
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.71,
+    "volume": 97815,
+    "timestamp": 1759667304
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.38,
+    "volume": 45140,
+    "timestamp": 1759667306
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.16,
+    "volume": 50377,
+    "timestamp": 1759667308
+  },
+  {
+    "symbol": "MSFT",
+    "price": 289.87,
+    "volume": 91812,
+    "timestamp": 1759667310
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.55,
+    "volume": 22697,
+    "timestamp": 1759667312
+  },
+  {
+    "symbol": "NFLX",
+    "price": 334.03,
+    "volume": 48749,
+    "timestamp": 1759667314
+  },
+  {
+    "symbol": "AMZN",
+    "price": 136.1,
+    "volume": 81031,
+    "timestamp": 1759667316
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.31,
+    "volume": 59841,
+    "timestamp": 1759667318
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.44,
+    "volume": 41562,
+    "timestamp": 1759667320
+  },
+  {
+    "symbol": "NFLX",
+    "price": 364.14,
+    "volume": 26430,
+    "timestamp": 1759667322
+  },
+  {
+    "symbol": "NVDA",
+    "price": 407.13,
+    "volume": 75766,
+    "timestamp": 1759667324
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.66,
+    "volume": 37932,
+    "timestamp": 1759667326
+  },
+  {
+    "symbol": "META",
+    "price": 200.06,
+    "volume": 55874,
+    "timestamp": 1759667328
+  },
+  {
+    "symbol": "MSFT",
+    "price": 309.51,
+    "volume": 80254,
+    "timestamp": 1759667330
+  },
+  {
+    "symbol": "MSFT",
+    "price": 311.19,
+    "volume": 7839,
+    "timestamp": 1759667332
+  },
+  {
+    "symbol": "NFLX",
+    "price": 363.09,
+    "volume": 73684,
+    "timestamp": 1759667334
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.96,
+    "volume": 68621,
+    "timestamp": 1759667336
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.99,
+    "volume": 22012,
+    "timestamp": 1759667338
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.73,
+    "volume": 68286,
+    "timestamp": 1759667340
+  },
+  {
+    "symbol": "MSFT",
+    "price": 309.93,
+    "volume": 13021,
+    "timestamp": 1759667342
+  },
+  {
+    "symbol": "AMZN",
+    "price": 134.12,
+    "volume": 46820,
+    "timestamp": 1759667344
+  },
+  {
+    "symbol": "AAPL",
+    "price": 148.72,
+    "volume": 52964,
+    "timestamp": 1759667346
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.74,
+    "volume": 51615,
+    "timestamp": 1759667348
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 138.25,
+    "volume": 4694,
+    "timestamp": 1759667350
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.23,
+    "volume": 94677,
+    "timestamp": 1759667352
+  },
+  {
+    "symbol": "NVDA",
+    "price": 411.66,
+    "volume": 19035,
+    "timestamp": 1759667354
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.8,
+    "volume": 62925,
+    "timestamp": 1759667356
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.77,
+    "volume": 62487,
+    "timestamp": 1759667358
+  },
+  {
+    "symbol": "NFLX",
+    "price": 354.04,
+    "volume": 11384,
+    "timestamp": 1759667360
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.34,
+    "volume": 20597,
+    "timestamp": 1759667362
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.4,
+    "volume": 80807,
+    "timestamp": 1759667364
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.23,
+    "volume": 38762,
+    "timestamp": 1759667366
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.41,
+    "volume": 7258,
+    "timestamp": 1759667368
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.96,
+    "volume": 82633,
+    "timestamp": 1759667370
+  },
+  {
+    "symbol": "NFLX",
+    "price": 334.7,
+    "volume": 66513,
+    "timestamp": 1759667372
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.18,
+    "volume": 83831,
+    "timestamp": 1759667374
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.75,
+    "volume": 95181,
+    "timestamp": 1759667376
+  },
+  {
+    "symbol": "MSFT",
+    "price": 293.74,
+    "volume": 1205,
+    "timestamp": 1759667378
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.26,
+    "volume": 75798,
+    "timestamp": 1759667380
+  },
+  {
+    "symbol": "META",
+    "price": 193.75,
+    "volume": 88584,
+    "timestamp": 1759667382
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.33,
+    "volume": 48265,
+    "timestamp": 1759667384
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 146.35,
+    "volume": 72313,
+    "timestamp": 1759667386
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.86,
+    "volume": 67535,
+    "timestamp": 1759667388
+  },
+  {
+    "symbol": "BABA",
+    "price": 95.2,
+    "volume": 62621,
+    "timestamp": 1759667390
+  },
+  {
+    "symbol": "AAPL",
+    "price": 152.04,
+    "volume": 49929,
+    "timestamp": 1759667392
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.18,
+    "volume": 47805,
+    "timestamp": 1759667394
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.83,
+    "volume": 97068,
+    "timestamp": 1759667396
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.8,
+    "volume": 97362,
+    "timestamp": 1759667398
+  },
+  {
+    "symbol": "NVDA",
+    "price": 385.34,
+    "volume": 47176,
+    "timestamp": 1759667400
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.39,
+    "volume": 85252,
+    "timestamp": 1759667402
+  },
+  {
+    "symbol": "MSFT",
+    "price": 309.91,
+    "volume": 90742,
+    "timestamp": 1759667404
+  },
+  {
+    "symbol": "NFLX",
+    "price": 366.83,
+    "volume": 63722,
+    "timestamp": 1759667406
+  },
+  {
+    "symbol": "MSFT",
+    "price": 309.34,
+    "volume": 9270,
+    "timestamp": 1759667408
+  },
+  {
+    "symbol": "NFLX",
+    "price": 333.79,
+    "volume": 27422,
+    "timestamp": 1759667410
+  },
+  {
+    "symbol": "AAPL",
+    "price": 154.37,
+    "volume": 6492,
+    "timestamp": 1759667412
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.33,
+    "volume": 68552,
+    "timestamp": 1759667414
+  },
+  {
+    "symbol": "META",
+    "price": 209.78,
+    "volume": 72176,
+    "timestamp": 1759667416
+  },
+  {
+    "symbol": "NFLX",
+    "price": 341.37,
+    "volume": 99735,
+    "timestamp": 1759667418
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.22,
+    "volume": 7265,
+    "timestamp": 1759667420
+  },
+  {
+    "symbol": "NVDA",
+    "price": 390.93,
+    "volume": 49237,
+    "timestamp": 1759667422
+  },
+  {
+    "symbol": "META",
+    "price": 207.79,
+    "volume": 98426,
+    "timestamp": 1759667424
+  },
+  {
+    "symbol": "NFLX",
+    "price": 363.81,
+    "volume": 51678,
+    "timestamp": 1759667426
+  },
+  {
+    "symbol": "NVDA",
+    "price": 418.95,
+    "volume": 66038,
+    "timestamp": 1759667428
+  },
+  {
+    "symbol": "NFLX",
+    "price": 345.36,
+    "volume": 69062,
+    "timestamp": 1759667430
+  },
+  {
+    "symbol": "TSLA",
+    "price": 257.53,
+    "volume": 96300,
+    "timestamp": 1759667432
+  },
+  {
+    "symbol": "META",
+    "price": 191.58,
+    "volume": 79964,
+    "timestamp": 1759667434
+  },
+  {
+    "symbol": "MSFT",
+    "price": 301.36,
+    "volume": 43101,
+    "timestamp": 1759667436
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 134.12,
+    "volume": 87628,
+    "timestamp": 1759667438
+  },
+  {
+    "symbol": "TSLA",
+    "price": 245.16,
+    "volume": 79986,
+    "timestamp": 1759667440
+  },
+  {
+    "symbol": "META",
+    "price": 193.33,
+    "volume": 59183,
+    "timestamp": 1759667442
+  },
+  {
+    "symbol": "NVDA",
+    "price": 397.89,
+    "volume": 96265,
+    "timestamp": 1759667444
+  },
+  {
+    "symbol": "NVDA",
+    "price": 404.59,
+    "volume": 58008,
+    "timestamp": 1759667446
+  },
+  {
+    "symbol": "TSLA",
+    "price": 253.49,
+    "volume": 8518,
+    "timestamp": 1759667448
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.4,
+    "volume": 54242,
+    "timestamp": 1759667450
+  },
+  {
+    "symbol": "NVDA",
+    "price": 400.52,
+    "volume": 99290,
+    "timestamp": 1759667452
+  },
+  {
+    "symbol": "MSFT",
+    "price": 313.58,
+    "volume": 19714,
+    "timestamp": 1759667454
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.89,
+    "volume": 58432,
+    "timestamp": 1759667456
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.39,
+    "volume": 31932,
+    "timestamp": 1759667458
+  },
+  {
+    "symbol": "NVDA",
+    "price": 394.49,
+    "volume": 75349,
+    "timestamp": 1759667460
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.58,
+    "volume": 90006,
+    "timestamp": 1759667462
+  },
+  {
+    "symbol": "NFLX",
+    "price": 365.71,
+    "volume": 49760,
+    "timestamp": 1759667464
+  },
+  {
+    "symbol": "NFLX",
+    "price": 359.21,
+    "volume": 76225,
+    "timestamp": 1759667466
+  },
+  {
+    "symbol": "MSFT",
+    "price": 300.88,
+    "volume": 53171,
+    "timestamp": 1759667468
+  },
+  {
+    "symbol": "NVDA",
+    "price": 405.98,
+    "volume": 33717,
+    "timestamp": 1759667470
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.36,
+    "volume": 25385,
+    "timestamp": 1759667472
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.62,
+    "volume": 74619,
+    "timestamp": 1759667474
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.66,
+    "volume": 35116,
+    "timestamp": 1759667476
+  },
+  {
+    "symbol": "NFLX",
+    "price": 340.01,
+    "volume": 81199,
+    "timestamp": 1759667478
+  },
+  {
+    "symbol": "TSLA",
+    "price": 254.85,
+    "volume": 65382,
+    "timestamp": 1759667480
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.09,
+    "volume": 10706,
+    "timestamp": 1759667482
+  },
+  {
+    "symbol": "NFLX",
+    "price": 338.54,
+    "volume": 94502,
+    "timestamp": 1759667484
+  },
+  {
+    "symbol": "NFLX",
+    "price": 367.4,
+    "volume": 90381,
+    "timestamp": 1759667486
+  },
+  {
+    "symbol": "NVDA",
+    "price": 406.71,
+    "volume": 94000,
+    "timestamp": 1759667488
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.7,
+    "volume": 39058,
+    "timestamp": 1759667490
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.78,
+    "volume": 94298,
+    "timestamp": 1759667492
+  },
+  {
+    "symbol": "MSFT",
+    "price": 308.81,
+    "volume": 67683,
+    "timestamp": 1759667494
+  },
+  {
+    "symbol": "AMZN",
+    "price": 125.08,
+    "volume": 27342,
+    "timestamp": 1759667496
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.1,
+    "volume": 65752,
+    "timestamp": 1759667498
+  },
+  {
+    "symbol": "AAPL",
+    "price": 147.91,
+    "volume": 76009,
+    "timestamp": 1759667500
+  },
+  {
+    "symbol": "NVDA",
+    "price": 398.7,
+    "volume": 73305,
+    "timestamp": 1759667502
+  },
+  {
+    "symbol": "MSFT",
+    "price": 303.36,
+    "volume": 12300,
+    "timestamp": 1759667504
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.33,
+    "volume": 94969,
+    "timestamp": 1759667506
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.9,
+    "volume": 54665,
+    "timestamp": 1759667508
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.87,
+    "volume": 42553,
+    "timestamp": 1759667510
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.3,
+    "volume": 90143,
+    "timestamp": 1759667512
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.45,
+    "volume": 73260,
+    "timestamp": 1759667514
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.41,
+    "volume": 17912,
+    "timestamp": 1759667516
+  },
+  {
+    "symbol": "META",
+    "price": 200.06,
+    "volume": 8263,
+    "timestamp": 1759667518
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.25,
+    "volume": 40862,
+    "timestamp": 1759667520
+  },
+  {
+    "symbol": "MSFT",
+    "price": 289.86,
+    "volume": 93973,
+    "timestamp": 1759667522
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.0,
+    "volume": 69012,
+    "timestamp": 1759667524
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.65,
+    "volume": 33847,
+    "timestamp": 1759667526
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.76,
+    "volume": 73199,
+    "timestamp": 1759667528
+  },
+  {
+    "symbol": "TSLA",
+    "price": 240.63,
+    "volume": 40691,
+    "timestamp": 1759667530
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.17,
+    "volume": 66873,
+    "timestamp": 1759667532
+  },
+  {
+    "symbol": "MSFT",
+    "price": 302.75,
+    "volume": 77106,
+    "timestamp": 1759667534
+  },
+  {
+    "symbol": "MSFT",
+    "price": 290.14,
+    "volume": 82851,
+    "timestamp": 1759667536
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.19,
+    "volume": 74874,
+    "timestamp": 1759667538
+  },
+  {
+    "symbol": "AAPL",
+    "price": 154.88,
+    "volume": 4718,
+    "timestamp": 1759667540
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.64,
+    "volume": 85076,
+    "timestamp": 1759667542
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.82,
+    "volume": 28631,
+    "timestamp": 1759667544
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.58,
+    "volume": 84753,
+    "timestamp": 1759667546
+  },
+  {
+    "symbol": "AAPL",
+    "price": 149.97,
+    "volume": 83203,
+    "timestamp": 1759667548
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.9,
+    "volume": 40596,
+    "timestamp": 1759667550
+  },
+  {
+    "symbol": "NFLX",
+    "price": 341.07,
+    "volume": 90783,
+    "timestamp": 1759667552
+  },
+  {
+    "symbol": "META",
+    "price": 195.95,
+    "volume": 10564,
+    "timestamp": 1759667554
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.87,
+    "volume": 55476,
+    "timestamp": 1759667556
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.76,
+    "volume": 45589,
+    "timestamp": 1759667558
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.22,
+    "volume": 95157,
+    "timestamp": 1759667560
+  },
+  {
+    "symbol": "NVDA",
+    "price": 409.37,
+    "volume": 46268,
+    "timestamp": 1759667562
+  },
+  {
+    "symbol": "META",
+    "price": 192.62,
+    "volume": 49567,
+    "timestamp": 1759667564
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.62,
+    "volume": 42827,
+    "timestamp": 1759667566
+  },
+  {
+    "symbol": "AMZN",
+    "price": 129.56,
+    "volume": 36058,
+    "timestamp": 1759667568
+  },
+  {
+    "symbol": "NFLX",
+    "price": 341.18,
+    "volume": 13689,
+    "timestamp": 1759667570
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.85,
+    "volume": 51351,
+    "timestamp": 1759667572
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.59,
+    "volume": 21932,
+    "timestamp": 1759667574
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.35,
+    "volume": 95519,
+    "timestamp": 1759667576
+  },
+  {
+    "symbol": "NVDA",
+    "price": 387.59,
+    "volume": 21885,
+    "timestamp": 1759667578
+  },
+  {
+    "symbol": "NFLX",
+    "price": 367.36,
+    "volume": 62186,
+    "timestamp": 1759667580
+  },
+  {
+    "symbol": "NFLX",
+    "price": 363.27,
+    "volume": 66191,
+    "timestamp": 1759667582
+  },
+  {
+    "symbol": "AAPL",
+    "price": 143.85,
+    "volume": 52543,
+    "timestamp": 1759667584
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.57,
+    "volume": 32552,
+    "timestamp": 1759667586
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.08,
+    "volume": 7377,
+    "timestamp": 1759667588
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.72,
+    "volume": 79317,
+    "timestamp": 1759667590
+  },
+  {
+    "symbol": "NFLX",
+    "price": 342.5,
+    "volume": 2071,
+    "timestamp": 1759667592
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 139.03,
+    "volume": 35664,
+    "timestamp": 1759667594
+  },
+  {
+    "symbol": "NVDA",
+    "price": 410.55,
+    "volume": 48964,
+    "timestamp": 1759667596
+  },
+  {
+    "symbol": "AAPL",
+    "price": 148.51,
+    "volume": 75747,
+    "timestamp": 1759667598
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.95,
+    "volume": 73512,
+    "timestamp": 1759667600
+  },
+  {
+    "symbol": "TSLA",
+    "price": 239.34,
+    "volume": 67093,
+    "timestamp": 1759667602
+  },
+  {
+    "symbol": "NFLX",
+    "price": 359.25,
+    "volume": 37663,
+    "timestamp": 1759667604
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.9,
+    "volume": 16572,
+    "timestamp": 1759667606
+  },
+  {
+    "symbol": "MSFT",
+    "price": 314.25,
+    "volume": 52629,
+    "timestamp": 1759667608
+  },
+  {
+    "symbol": "NVDA",
+    "price": 411.8,
+    "volume": 45444,
+    "timestamp": 1759667610
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.39,
+    "volume": 99954,
+    "timestamp": 1759667612
+  },
+  {
+    "symbol": "MSFT",
+    "price": 290.97,
+    "volume": 67731,
+    "timestamp": 1759667614
+  },
+  {
+    "symbol": "META",
+    "price": 200.0,
+    "volume": 6938,
+    "timestamp": 1759667616
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.56,
+    "volume": 44652,
+    "timestamp": 1759667618
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.68,
+    "volume": 20521,
+    "timestamp": 1759667620
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.97,
+    "volume": 19321,
+    "timestamp": 1759667622
+  },
+  {
+    "symbol": "NVDA",
+    "price": 417.25,
+    "volume": 42750,
+    "timestamp": 1759667624
+  },
+  {
+    "symbol": "MSFT",
+    "price": 296.79,
+    "volume": 81805,
+    "timestamp": 1759667626
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.34,
+    "volume": 67494,
+    "timestamp": 1759667628
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.32,
+    "volume": 93895,
+    "timestamp": 1759667630
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.0,
+    "volume": 3180,
+    "timestamp": 1759667632
+  },
+  {
+    "symbol": "NVDA",
+    "price": 393.25,
+    "volume": 15366,
+    "timestamp": 1759667634
+  },
+  {
+    "symbol": "META",
+    "price": 201.67,
+    "volume": 96069,
+    "timestamp": 1759667636
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.45,
+    "volume": 35803,
+    "timestamp": 1759667638
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.39,
+    "volume": 95555,
+    "timestamp": 1759667640
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.25,
+    "volume": 23349,
+    "timestamp": 1759667642
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.29,
+    "volume": 82230,
+    "timestamp": 1759667644
+  },
+  {
+    "symbol": "META",
+    "price": 192.96,
+    "volume": 90224,
+    "timestamp": 1759667646
+  },
+  {
+    "symbol": "AMZN",
+    "price": 123.91,
+    "volume": 92818,
+    "timestamp": 1759667648
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 135.67,
+    "volume": 58807,
+    "timestamp": 1759667650
+  },
+  {
+    "symbol": "NVDA",
+    "price": 396.75,
+    "volume": 55127,
+    "timestamp": 1759667652
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.83,
+    "volume": 81147,
+    "timestamp": 1759667654
+  },
+  {
+    "symbol": "NFLX",
+    "price": 363.05,
+    "volume": 97447,
+    "timestamp": 1759667656
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.09,
+    "volume": 68984,
+    "timestamp": 1759667658
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.79,
+    "volume": 87799,
+    "timestamp": 1759667660
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.89,
+    "volume": 42124,
+    "timestamp": 1759667662
+  },
+  {
+    "symbol": "MSFT",
+    "price": 298.79,
+    "volume": 70878,
+    "timestamp": 1759667664
+  },
+  {
+    "symbol": "NVDA",
+    "price": 401.85,
+    "volume": 89587,
+    "timestamp": 1759667666
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.75,
+    "volume": 26200,
+    "timestamp": 1759667668
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.13,
+    "volume": 40124,
+    "timestamp": 1759667670
+  },
+  {
+    "symbol": "AMZN",
+    "price": 135.74,
+    "volume": 40008,
+    "timestamp": 1759667672
+  },
+  {
+    "symbol": "TSLA",
+    "price": 255.12,
+    "volume": 91471,
+    "timestamp": 1759667674
+  },
+  {
+    "symbol": "NFLX",
+    "price": 343.6,
+    "volume": 46718,
+    "timestamp": 1759667676
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.34,
+    "volume": 95589,
+    "timestamp": 1759667678
+  },
+  {
+    "symbol": "TSLA",
+    "price": 244.69,
+    "volume": 76166,
+    "timestamp": 1759667680
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.8,
+    "volume": 52712,
+    "timestamp": 1759667682
+  },
+  {
+    "symbol": "NVDA",
+    "price": 418.18,
+    "volume": 20198,
+    "timestamp": 1759667684
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.55,
+    "volume": 94603,
+    "timestamp": 1759667686
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.85,
+    "volume": 58983,
+    "timestamp": 1759667688
+  },
+  {
+    "symbol": "TSLA",
+    "price": 256.18,
+    "volume": 29047,
+    "timestamp": 1759667690
+  },
+  {
+    "symbol": "AMZN",
+    "price": 134.26,
+    "volume": 36537,
+    "timestamp": 1759667692
+  },
+  {
+    "symbol": "BABA",
+    "price": 101.96,
+    "volume": 18992,
+    "timestamp": 1759667694
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.62,
+    "volume": 77917,
+    "timestamp": 1759667696
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.65,
+    "volume": 88796,
+    "timestamp": 1759667698
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.26,
+    "volume": 31518,
+    "timestamp": 1759667700
+  },
+  {
+    "symbol": "AAPL",
+    "price": 144.0,
+    "volume": 44292,
+    "timestamp": 1759667702
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.02,
+    "volume": 19018,
+    "timestamp": 1759667704
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.97,
+    "volume": 21701,
+    "timestamp": 1759667706
+  },
+  {
+    "symbol": "META",
+    "price": 203.06,
+    "volume": 63350,
+    "timestamp": 1759667708
+  },
+  {
+    "symbol": "NFLX",
+    "price": 355.27,
+    "volume": 38649,
+    "timestamp": 1759667710
+  },
+  {
+    "symbol": "NVDA",
+    "price": 391.42,
+    "volume": 8754,
+    "timestamp": 1759667712
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.13,
+    "volume": 31437,
+    "timestamp": 1759667714
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.39,
+    "volume": 5888,
+    "timestamp": 1759667716
+  },
+  {
+    "symbol": "MSFT",
+    "price": 297.54,
+    "volume": 24040,
+    "timestamp": 1759667718
+  },
+  {
+    "symbol": "AAPL",
+    "price": 157.46,
+    "volume": 53034,
+    "timestamp": 1759667720
+  },
+  {
+    "symbol": "NFLX",
+    "price": 339.02,
+    "volume": 99173,
+    "timestamp": 1759667722
+  },
+  {
+    "symbol": "TSLA",
+    "price": 259.42,
+    "volume": 2214,
+    "timestamp": 1759667724
+  },
+  {
+    "symbol": "TSLA",
+    "price": 251.7,
+    "volume": 15064,
+    "timestamp": 1759667726
+  },
+  {
+    "symbol": "NVDA",
+    "price": 391.38,
+    "volume": 85058,
+    "timestamp": 1759667728
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.24,
+    "volume": 18589,
+    "timestamp": 1759667730
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.68,
+    "volume": 26272,
+    "timestamp": 1759667732
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.63,
+    "volume": 96829,
+    "timestamp": 1759667734
+  },
+  {
+    "symbol": "NFLX",
+    "price": 355.19,
+    "volume": 95188,
+    "timestamp": 1759667736
+  },
+  {
+    "symbol": "MSFT",
+    "price": 285.42,
+    "volume": 45185,
+    "timestamp": 1759667738
+  },
+  {
+    "symbol": "TSLA",
+    "price": 251.69,
+    "volume": 26318,
+    "timestamp": 1759667740
+  },
+  {
+    "symbol": "MSFT",
+    "price": 303.33,
+    "volume": 84719,
+    "timestamp": 1759667742
+  },
+  {
+    "symbol": "META",
+    "price": 206.54,
+    "volume": 68538,
+    "timestamp": 1759667744
+  },
+  {
+    "symbol": "NVDA",
+    "price": 383.47,
+    "volume": 88720,
+    "timestamp": 1759667746
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 135.59,
+    "volume": 19430,
+    "timestamp": 1759667748
+  },
+  {
+    "symbol": "NFLX",
+    "price": 343.83,
+    "volume": 33512,
+    "timestamp": 1759667750
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.41,
+    "volume": 31870,
+    "timestamp": 1759667752
+  },
+  {
+    "symbol": "NFLX",
+    "price": 358.88,
+    "volume": 44204,
+    "timestamp": 1759667754
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.06,
+    "volume": 76088,
+    "timestamp": 1759667756
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.42,
+    "volume": 48127,
+    "timestamp": 1759667758
+  },
+  {
+    "symbol": "AMZN",
+    "price": 124.31,
+    "volume": 16495,
+    "timestamp": 1759667760
+  },
+  {
+    "symbol": "NFLX",
+    "price": 343.24,
+    "volume": 54138,
+    "timestamp": 1759667762
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.23,
+    "volume": 93216,
+    "timestamp": 1759667764
+  },
+  {
+    "symbol": "TSLA",
+    "price": 254.76,
+    "volume": 84717,
+    "timestamp": 1759667766
+  },
+  {
+    "symbol": "TSLA",
+    "price": 246.69,
+    "volume": 29947,
+    "timestamp": 1759667768
+  },
+  {
+    "symbol": "AMZN",
+    "price": 135.95,
+    "volume": 63676,
+    "timestamp": 1759667770
+  },
+  {
+    "symbol": "MSFT",
+    "price": 298.65,
+    "volume": 80395,
+    "timestamp": 1759667772
+  },
+  {
+    "symbol": "NVDA",
+    "price": 396.63,
+    "volume": 72989,
+    "timestamp": 1759667774
+  },
+  {
+    "symbol": "NFLX",
+    "price": 359.01,
+    "volume": 88044,
+    "timestamp": 1759667776
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.4,
+    "volume": 90173,
+    "timestamp": 1759667778
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.87,
+    "volume": 11730,
+    "timestamp": 1759667780
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.47,
+    "volume": 93244,
+    "timestamp": 1759667782
+  },
+  {
+    "symbol": "NVDA",
+    "price": 383.12,
+    "volume": 74946,
+    "timestamp": 1759667784
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.86,
+    "volume": 72781,
+    "timestamp": 1759667786
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.02,
+    "volume": 71341,
+    "timestamp": 1759667788
+  },
+  {
+    "symbol": "MSFT",
+    "price": 289.94,
+    "volume": 69202,
+    "timestamp": 1759667790
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.57,
+    "volume": 27922,
+    "timestamp": 1759667792
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.94,
+    "volume": 67895,
+    "timestamp": 1759667794
+  },
+  {
+    "symbol": "NFLX",
+    "price": 360.8,
+    "volume": 60432,
+    "timestamp": 1759667796
+  },
+  {
+    "symbol": "MSFT",
+    "price": 300.4,
+    "volume": 60873,
+    "timestamp": 1759667798
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.79,
+    "volume": 61604,
+    "timestamp": 1759667800
+  },
+  {
+    "symbol": "TSLA",
+    "price": 255.58,
+    "volume": 52897,
+    "timestamp": 1759667802
+  },
+  {
+    "symbol": "TSLA",
+    "price": 257.91,
+    "volume": 98754,
+    "timestamp": 1759667804
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.02,
+    "volume": 6936,
+    "timestamp": 1759667806
+  },
+  {
+    "symbol": "META",
+    "price": 196.89,
+    "volume": 9357,
+    "timestamp": 1759667808
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.94,
+    "volume": 10046,
+    "timestamp": 1759667810
+  },
+  {
+    "symbol": "NFLX",
+    "price": 333.61,
+    "volume": 54591,
+    "timestamp": 1759667812
+  },
+  {
+    "symbol": "MSFT",
+    "price": 308.07,
+    "volume": 85085,
+    "timestamp": 1759667814
+  },
+  {
+    "symbol": "META",
+    "price": 197.49,
+    "volume": 51132,
+    "timestamp": 1759667816
+  },
+  {
+    "symbol": "NFLX",
+    "price": 362.94,
+    "volume": 50479,
+    "timestamp": 1759667818
+  },
+  {
+    "symbol": "META",
+    "price": 191.6,
+    "volume": 87742,
+    "timestamp": 1759667820
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.33,
+    "volume": 46582,
+    "timestamp": 1759667822
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 135.5,
+    "volume": 71419,
+    "timestamp": 1759667824
+  },
+  {
+    "symbol": "META",
+    "price": 200.58,
+    "volume": 96401,
+    "timestamp": 1759667826
+  },
+  {
+    "symbol": "AMZN",
+    "price": 134.35,
+    "volume": 3979,
+    "timestamp": 1759667828
+  },
+  {
+    "symbol": "TSLA",
+    "price": 249.08,
+    "volume": 95253,
+    "timestamp": 1759667830
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.24,
+    "volume": 50712,
+    "timestamp": 1759667832
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.72,
+    "volume": 46371,
+    "timestamp": 1759667834
+  },
+  {
+    "symbol": "MSFT",
+    "price": 293.27,
+    "volume": 96030,
+    "timestamp": 1759667836
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.45,
+    "volume": 87533,
+    "timestamp": 1759667838
+  },
+  {
+    "symbol": "META",
+    "price": 202.3,
+    "volume": 3050,
+    "timestamp": 1759667840
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.18,
+    "volume": 14224,
+    "timestamp": 1759667842
+  },
+  {
+    "symbol": "INTC",
+    "price": 47.67,
+    "volume": 79352,
+    "timestamp": 1759667844
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.17,
+    "volume": 6798,
+    "timestamp": 1759667846
+  },
+  {
+    "symbol": "META",
+    "price": 198.78,
+    "volume": 71747,
+    "timestamp": 1759667848
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.31,
+    "volume": 8398,
+    "timestamp": 1759667850
+  },
+  {
+    "symbol": "MSFT",
+    "price": 300.12,
+    "volume": 38914,
+    "timestamp": 1759667852
+  },
+  {
+    "symbol": "AMZN",
+    "price": 134.11,
+    "volume": 96881,
+    "timestamp": 1759667854
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.09,
+    "volume": 79370,
+    "timestamp": 1759667856
+  },
+  {
+    "symbol": "NVDA",
+    "price": 389.48,
+    "volume": 19777,
+    "timestamp": 1759667858
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.21,
+    "volume": 40387,
+    "timestamp": 1759667860
+  },
+  {
+    "symbol": "TSLA",
+    "price": 239.02,
+    "volume": 78550,
+    "timestamp": 1759667862
+  },
+  {
+    "symbol": "MSFT",
+    "price": 303.78,
+    "volume": 56994,
+    "timestamp": 1759667864
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.96,
+    "volume": 46143,
+    "timestamp": 1759667866
+  },
+  {
+    "symbol": "META",
+    "price": 205.72,
+    "volume": 42777,
+    "timestamp": 1759667868
+  },
+  {
+    "symbol": "META",
+    "price": 198.17,
+    "volume": 40306,
+    "timestamp": 1759667870
+  },
+  {
+    "symbol": "META",
+    "price": 193.68,
+    "volume": 71507,
+    "timestamp": 1759667872
+  },
+  {
+    "symbol": "NFLX",
+    "price": 340.93,
+    "volume": 30536,
+    "timestamp": 1759667874
+  },
+  {
+    "symbol": "TSLA",
+    "price": 258.94,
+    "volume": 19920,
+    "timestamp": 1759667876
+  },
+  {
+    "symbol": "NFLX",
+    "price": 364.52,
+    "volume": 74713,
+    "timestamp": 1759667878
+  },
+  {
+    "symbol": "META",
+    "price": 209.36,
+    "volume": 74044,
+    "timestamp": 1759667880
+  },
+  {
+    "symbol": "BABA",
+    "price": 96.34,
+    "volume": 32831,
+    "timestamp": 1759667882
+  },
+  {
+    "symbol": "TSLA",
+    "price": 242.58,
+    "volume": 85765,
+    "timestamp": 1759667884
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 145.91,
+    "volume": 49637,
+    "timestamp": 1759667886
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.5,
+    "volume": 25966,
+    "timestamp": 1759667888
+  },
+  {
+    "symbol": "AAPL",
+    "price": 146.53,
+    "volume": 89299,
+    "timestamp": 1759667890
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.51,
+    "volume": 10539,
+    "timestamp": 1759667892
+  },
+  {
+    "symbol": "AMZN",
+    "price": 133.96,
+    "volume": 78015,
+    "timestamp": 1759667894
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.17,
+    "volume": 28379,
+    "timestamp": 1759667896
+  },
+  {
+    "symbol": "NVDA",
+    "price": 392.13,
+    "volume": 3009,
+    "timestamp": 1759667898
+  },
+  {
+    "symbol": "AMZN",
+    "price": 135.68,
+    "volume": 98186,
+    "timestamp": 1759667900
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.46,
+    "volume": 99871,
+    "timestamp": 1759667902
+  },
+  {
+    "symbol": "NFLX",
+    "price": 364.51,
+    "volume": 92177,
+    "timestamp": 1759667904
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.02,
+    "volume": 52987,
+    "timestamp": 1759667906
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.68,
+    "volume": 38101,
+    "timestamp": 1759667908
+  },
+  {
+    "symbol": "META",
+    "price": 199.33,
+    "volume": 86029,
+    "timestamp": 1759667910
+  },
+  {
+    "symbol": "NVDA",
+    "price": 392.34,
+    "volume": 48139,
+    "timestamp": 1759667912
+  },
+  {
+    "symbol": "BABA",
+    "price": 103.83,
+    "volume": 62080,
+    "timestamp": 1759667914
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.24,
+    "volume": 95688,
+    "timestamp": 1759667916
+  },
+  {
+    "symbol": "NFLX",
+    "price": 359.16,
+    "volume": 42973,
+    "timestamp": 1759667918
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.32,
+    "volume": 55254,
+    "timestamp": 1759667920
+  },
+  {
+    "symbol": "AAPL",
+    "price": 150.94,
+    "volume": 30002,
+    "timestamp": 1759667922
+  },
+  {
+    "symbol": "MSFT",
+    "price": 285.49,
+    "volume": 73523,
+    "timestamp": 1759667924
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.4,
+    "volume": 55732,
+    "timestamp": 1759667926
+  },
+  {
+    "symbol": "TSLA",
+    "price": 241.31,
+    "volume": 44236,
+    "timestamp": 1759667928
+  },
+  {
+    "symbol": "AMZN",
+    "price": 128.44,
+    "volume": 33208,
+    "timestamp": 1759667930
+  },
+  {
+    "symbol": "NFLX",
+    "price": 351.77,
+    "volume": 90764,
+    "timestamp": 1759667932
+  },
+  {
+    "symbol": "NVDA",
+    "price": 390.29,
+    "volume": 65044,
+    "timestamp": 1759667934
+  },
+  {
+    "symbol": "NFLX",
+    "price": 348.63,
+    "volume": 97045,
+    "timestamp": 1759667936
+  },
+  {
+    "symbol": "NVDA",
+    "price": 386.77,
+    "volume": 95412,
+    "timestamp": 1759667938
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.88,
+    "volume": 72058,
+    "timestamp": 1759667940
+  },
+  {
+    "symbol": "AAPL",
+    "price": 150.36,
+    "volume": 10742,
+    "timestamp": 1759667942
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.97,
+    "volume": 55053,
+    "timestamp": 1759667944
+  },
+  {
+    "symbol": "MSFT",
+    "price": 310.28,
+    "volume": 31334,
+    "timestamp": 1759667946
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.9,
+    "volume": 2198,
+    "timestamp": 1759667948
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.07,
+    "volume": 49916,
+    "timestamp": 1759667950
+  },
+  {
+    "symbol": "AAPL",
+    "price": 151.77,
+    "volume": 88392,
+    "timestamp": 1759667952
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.06,
+    "volume": 87413,
+    "timestamp": 1759667954
+  },
+  {
+    "symbol": "NFLX",
+    "price": 333.05,
+    "volume": 70758,
+    "timestamp": 1759667956
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.11,
+    "volume": 3192,
+    "timestamp": 1759667958
+  },
+  {
+    "symbol": "BABA",
+    "price": 102.22,
+    "volume": 71220,
+    "timestamp": 1759667960
+  },
+  {
+    "symbol": "TSLA",
+    "price": 237.93,
+    "volume": 92469,
+    "timestamp": 1759667962
+  },
+  {
+    "symbol": "META",
+    "price": 206.12,
+    "volume": 24496,
+    "timestamp": 1759667964
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 145.85,
+    "volume": 69732,
+    "timestamp": 1759667966
+  },
+  {
+    "symbol": "MSFT",
+    "price": 292.23,
+    "volume": 82235,
+    "timestamp": 1759667968
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.52,
+    "volume": 47457,
+    "timestamp": 1759667970
+  },
+  {
+    "symbol": "TSLA",
+    "price": 257.37,
+    "volume": 11357,
+    "timestamp": 1759667972
+  },
+  {
+    "symbol": "NVDA",
+    "price": 418.37,
+    "volume": 61161,
+    "timestamp": 1759667974
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.72,
+    "volume": 92388,
+    "timestamp": 1759667976
+  },
+  {
+    "symbol": "AMZN",
+    "price": 127.4,
+    "volume": 11566,
+    "timestamp": 1759667978
+  },
+  {
+    "symbol": "AAPL",
+    "price": 143.9,
+    "volume": 50710,
+    "timestamp": 1759667980
+  },
+  {
+    "symbol": "META",
+    "price": 201.05,
+    "volume": 8355,
+    "timestamp": 1759667982
+  },
+  {
+    "symbol": "AAPL",
+    "price": 153.04,
+    "volume": 11837,
+    "timestamp": 1759667984
+  },
+  {
+    "symbol": "NFLX",
+    "price": 362.09,
+    "volume": 85529,
+    "timestamp": 1759667986
+  },
+  {
+    "symbol": "NVDA",
+    "price": 402.63,
+    "volume": 13499,
+    "timestamp": 1759667988
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.19,
+    "volume": 31115,
+    "timestamp": 1759667990
+  },
+  {
+    "symbol": "AMZN",
+    "price": 135.22,
+    "volume": 91739,
+    "timestamp": 1759667992
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.88,
+    "volume": 7102,
+    "timestamp": 1759667994
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.58,
+    "volume": 37749,
+    "timestamp": 1759667996
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.64,
+    "volume": 5312,
+    "timestamp": 1759667998
+  },
+  {
+    "symbol": "MSFT",
+    "price": 312.86,
+    "volume": 42220,
+    "timestamp": 1759668000
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.92,
+    "volume": 77943,
+    "timestamp": 1759668002
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.57,
+    "volume": 94416,
+    "timestamp": 1759668004
+  },
+  {
+    "symbol": "META",
+    "price": 208.58,
+    "volume": 40226,
+    "timestamp": 1759668006
+  },
+  {
+    "symbol": "MSFT",
+    "price": 301.92,
+    "volume": 75277,
+    "timestamp": 1759668008
+  },
+  {
+    "symbol": "META",
+    "price": 203.54,
+    "volume": 71852,
+    "timestamp": 1759668010
+  },
+  {
+    "symbol": "NVDA",
+    "price": 395.35,
+    "volume": 97959,
+    "timestamp": 1759668012
+  },
+  {
+    "symbol": "MSFT",
+    "price": 308.71,
+    "volume": 91349,
+    "timestamp": 1759668014
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 140.01,
+    "volume": 46332,
+    "timestamp": 1759668016
+  },
+  {
+    "symbol": "AAPL",
+    "price": 143.97,
+    "volume": 31427,
+    "timestamp": 1759668018
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.77,
+    "volume": 81460,
+    "timestamp": 1759668020
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.48,
+    "volume": 43778,
+    "timestamp": 1759668022
+  },
+  {
+    "symbol": "AAPL",
+    "price": 152.01,
+    "volume": 60054,
+    "timestamp": 1759668024
+  },
+  {
+    "symbol": "NFLX",
+    "price": 340.48,
+    "volume": 73487,
+    "timestamp": 1759668026
+  },
+  {
+    "symbol": "META",
+    "price": 198.64,
+    "volume": 90088,
+    "timestamp": 1759668028
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.8,
+    "volume": 12232,
+    "timestamp": 1759668030
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.98,
+    "volume": 33302,
+    "timestamp": 1759668032
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 134.15,
+    "volume": 21214,
+    "timestamp": 1759668034
+  },
+  {
+    "symbol": "META",
+    "price": 204.23,
+    "volume": 84086,
+    "timestamp": 1759668036
+  },
+  {
+    "symbol": "MSFT",
+    "price": 307.19,
+    "volume": 42507,
+    "timestamp": 1759668038
+  },
+  {
+    "symbol": "NVDA",
+    "price": 384.26,
+    "volume": 1680,
+    "timestamp": 1759668040
+  },
+  {
+    "symbol": "TSLA",
+    "price": 248.62,
+    "volume": 36358,
+    "timestamp": 1759668042
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 134.86,
+    "volume": 25561,
+    "timestamp": 1759668044
+  },
+  {
+    "symbol": "META",
+    "price": 198.98,
+    "volume": 73710,
+    "timestamp": 1759668046
+  },
+  {
+    "symbol": "BABA",
+    "price": 99.08,
+    "volume": 4442,
+    "timestamp": 1759668048
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.95,
+    "volume": 13198,
+    "timestamp": 1759668050
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.49,
+    "volume": 43523,
+    "timestamp": 1759668052
+  },
+  {
+    "symbol": "META",
+    "price": 190.25,
+    "volume": 55238,
+    "timestamp": 1759668054
+  },
+  {
+    "symbol": "META",
+    "price": 205.58,
+    "volume": 96006,
+    "timestamp": 1759668056
+  },
+  {
+    "symbol": "BABA",
+    "price": 104.05,
+    "volume": 32816,
+    "timestamp": 1759668058
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.11,
+    "volume": 90825,
+    "timestamp": 1759668060
+  },
+  {
+    "symbol": "META",
+    "price": 193.39,
+    "volume": 36247,
+    "timestamp": 1759668062
+  },
+  {
+    "symbol": "TSLA",
+    "price": 244.21,
+    "volume": 20127,
+    "timestamp": 1759668064
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 135.34,
+    "volume": 37170,
+    "timestamp": 1759668066
+  },
+  {
+    "symbol": "META",
+    "price": 196.0,
+    "volume": 11082,
+    "timestamp": 1759668068
+  },
+  {
+    "symbol": "NVDA",
+    "price": 390.07,
+    "volume": 33321,
+    "timestamp": 1759668070
+  },
+  {
+    "symbol": "NFLX",
+    "price": 353.28,
+    "volume": 26630,
+    "timestamp": 1759668072
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.24,
+    "volume": 40932,
+    "timestamp": 1759668074
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.73,
+    "volume": 44544,
+    "timestamp": 1759668076
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.4,
+    "volume": 44193,
+    "timestamp": 1759668078
+  },
+  {
+    "symbol": "NFLX",
+    "price": 344.22,
+    "volume": 86332,
+    "timestamp": 1759668080
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.18,
+    "volume": 43030,
+    "timestamp": 1759668082
+  },
+  {
+    "symbol": "INTC",
+    "price": 52.24,
+    "volume": 27326,
+    "timestamp": 1759668084
+  },
+  {
+    "symbol": "NFLX",
+    "price": 343.5,
+    "volume": 53198,
+    "timestamp": 1759668086
+  },
+  {
+    "symbol": "NVDA",
+    "price": 391.66,
+    "volume": 92089,
+    "timestamp": 1759668088
+  },
+  {
+    "symbol": "NFLX",
+    "price": 366.37,
+    "volume": 32775,
+    "timestamp": 1759668090
+  },
+  {
+    "symbol": "NVDA",
+    "price": 395.04,
+    "volume": 52502,
+    "timestamp": 1759668092
+  },
+  {
+    "symbol": "NVDA",
+    "price": 384.56,
+    "volume": 74905,
+    "timestamp": 1759668094
+  },
+  {
+    "symbol": "AMZN",
+    "price": 131.2,
+    "volume": 72516,
+    "timestamp": 1759668096
+  },
+  {
+    "symbol": "MSFT",
+    "price": 305.45,
+    "volume": 73102,
+    "timestamp": 1759668098
+  },
+  {
+    "symbol": "AAPL",
+    "price": 156.8,
+    "volume": 61505,
+    "timestamp": 1759668100
+  },
+  {
+    "symbol": "AMZN",
+    "price": 129.2,
+    "volume": 39185,
+    "timestamp": 1759668102
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.47,
+    "volume": 54627,
+    "timestamp": 1759668104
+  },
+  {
+    "symbol": "NFLX",
+    "price": 337.37,
+    "volume": 40692,
+    "timestamp": 1759668106
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.78,
+    "volume": 21203,
+    "timestamp": 1759668108
+  },
+  {
+    "symbol": "META",
+    "price": 205.78,
+    "volume": 10694,
+    "timestamp": 1759668110
+  },
+  {
+    "symbol": "NFLX",
+    "price": 367.17,
+    "volume": 63814,
+    "timestamp": 1759668112
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.5,
+    "volume": 67402,
+    "timestamp": 1759668114
+  },
+  {
+    "symbol": "META",
+    "price": 200.87,
+    "volume": 48124,
+    "timestamp": 1759668116
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.94,
+    "volume": 12138,
+    "timestamp": 1759668118
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 143.77,
+    "volume": 87193,
+    "timestamp": 1759668120
+  },
+  {
+    "symbol": "NVDA",
+    "price": 386.65,
+    "volume": 81304,
+    "timestamp": 1759668122
+  },
+  {
+    "symbol": "AAPL",
+    "price": 150.95,
+    "volume": 85545,
+    "timestamp": 1759668124
+  },
+  {
+    "symbol": "META",
+    "price": 209.34,
+    "volume": 44463,
+    "timestamp": 1759668126
+  },
+  {
+    "symbol": "META",
+    "price": 192.12,
+    "volume": 13924,
+    "timestamp": 1759668128
+  },
+  {
+    "symbol": "TSLA",
+    "price": 243.05,
+    "volume": 98891,
+    "timestamp": 1759668130
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.58,
+    "volume": 91133,
+    "timestamp": 1759668132
+  },
+  {
+    "symbol": "INTC",
+    "price": 48.61,
+    "volume": 50036,
+    "timestamp": 1759668134
+  },
+  {
+    "symbol": "META",
+    "price": 199.26,
+    "volume": 90070,
+    "timestamp": 1759668136
+  },
+  {
+    "symbol": "INTC",
+    "price": 50.95,
+    "volume": 20758,
+    "timestamp": 1759668138
+  },
+  {
+    "symbol": "NVDA",
+    "price": 419.91,
+    "volume": 64277,
+    "timestamp": 1759668140
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 137.14,
+    "volume": 12253,
+    "timestamp": 1759668142
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 144.64,
+    "volume": 96702,
+    "timestamp": 1759668144
+  },
+  {
+    "symbol": "MSFT",
+    "price": 295.45,
+    "volume": 45966,
+    "timestamp": 1759668146
+  },
+  {
+    "symbol": "NFLX",
+    "price": 359.95,
+    "volume": 69303,
+    "timestamp": 1759668148
+  },
+  {
+    "symbol": "NFLX",
+    "price": 344.69,
+    "volume": 13795,
+    "timestamp": 1759668150
+  },
+  {
+    "symbol": "NFLX",
+    "price": 357.77,
+    "volume": 60303,
+    "timestamp": 1759668152
+  },
+  {
+    "symbol": "NVDA",
+    "price": 382.69,
+    "volume": 6856,
+    "timestamp": 1759668154
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 133.32,
+    "volume": 45967,
+    "timestamp": 1759668156
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.48,
+    "volume": 22542,
+    "timestamp": 1759668158
+  },
+  {
+    "symbol": "AMZN",
+    "price": 130.21,
+    "volume": 73339,
+    "timestamp": 1759668160
+  },
+  {
+    "symbol": "MSFT",
+    "price": 294.93,
+    "volume": 56885,
+    "timestamp": 1759668162
+  },
+  {
+    "symbol": "NFLX",
+    "price": 340.61,
+    "volume": 54090,
+    "timestamp": 1759668164
+  },
+  {
+    "symbol": "MSFT",
+    "price": 290.59,
+    "volume": 87154,
+    "timestamp": 1759668166
+  },
+  {
+    "symbol": "META",
+    "price": 197.91,
+    "volume": 97650,
+    "timestamp": 1759668168
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.92,
+    "volume": 59926,
+    "timestamp": 1759668170
+  },
+  {
+    "symbol": "INTC",
+    "price": 49.65,
+    "volume": 1583,
+    "timestamp": 1759668172
+  },
+  {
+    "symbol": "AMZN",
+    "price": 126.18,
+    "volume": 99608,
+    "timestamp": 1759668174
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 141.08,
+    "volume": 71371,
+    "timestamp": 1759668176
+  },
+  {
+    "symbol": "MSFT",
+    "price": 295.97,
+    "volume": 26830,
+    "timestamp": 1759668178
+  },
+  {
+    "symbol": "NFLX",
+    "price": 336.49,
+    "volume": 88910,
+    "timestamp": 1759668180
+  },
+  {
+    "symbol": "NFLX",
+    "price": 350.97,
+    "volume": 84769,
+    "timestamp": 1759668182
+  },
+  {
+    "symbol": "NVDA",
+    "price": 403.88,
+    "volume": 81125,
+    "timestamp": 1759668184
+  },
+  {
+    "symbol": "META",
+    "price": 201.74,
+    "volume": 46603,
+    "timestamp": 1759668186
+  },
+  {
+    "symbol": "NVDA",
+    "price": 413.82,
+    "volume": 81918,
+    "timestamp": 1759668188
+  },
+  {
+    "symbol": "MSFT",
+    "price": 309.41,
+    "volume": 93535,
+    "timestamp": 1759668190
+  },
+  {
+    "symbol": "TSLA",
+    "price": 260.47,
+    "volume": 78354,
+    "timestamp": 1759668192
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.41,
+    "volume": 42049,
+    "timestamp": 1759668194
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.34,
+    "volume": 16328,
+    "timestamp": 1759668196
+  },
+  {
+    "symbol": "MSFT",
+    "price": 296.2,
+    "volume": 19528,
+    "timestamp": 1759668198
+  },
+  {
+    "symbol": "BABA",
+    "price": 98.88,
+    "volume": 79174,
+    "timestamp": 1759668200
+  },
+  {
+    "symbol": "MSFT",
+    "price": 302.24,
+    "volume": 56448,
+    "timestamp": 1759668202
+  },
+  {
+    "symbol": "MSFT",
+    "price": 299.6,
+    "volume": 71435,
+    "timestamp": 1759668204
+  },
+  {
+    "symbol": "MSFT",
+    "price": 301.65,
+    "volume": 65178,
+    "timestamp": 1759668206
+  },
+  {
+    "symbol": "TSLA",
+    "price": 241.01,
+    "volume": 42232,
+    "timestamp": 1759668208
+  },
+  {
+    "symbol": "NFLX",
+    "price": 354.18,
+    "volume": 48059,
+    "timestamp": 1759668210
+  },
+  {
+    "symbol": "AAPL",
+    "price": 149.77,
+    "volume": 26575,
+    "timestamp": 1759668212
+  },
+  {
+    "symbol": "META",
+    "price": 209.28,
+    "volume": 67248,
+    "timestamp": 1759668214
+  },
+  {
+    "symbol": "NFLX",
+    "price": 346.82,
+    "volume": 65451,
+    "timestamp": 1759668216
+  },
+  {
+    "symbol": "META",
+    "price": 204.2,
+    "volume": 59176,
+    "timestamp": 1759668218
+  },
+  {
+    "symbol": "NFLX",
+    "price": 338.35,
+    "volume": 75107,
+    "timestamp": 1759668220
+  },
+  {
+    "symbol": "AAPL",
+    "price": 154.44,
+    "volume": 29905,
+    "timestamp": 1759668222
+  },
+  {
+    "symbol": "TSLA",
+    "price": 238.32,
+    "volume": 30470,
+    "timestamp": 1759668224
+  },
+  {
+    "symbol": "BABA",
+    "price": 97.89,
+    "volume": 60942,
+    "timestamp": 1759668226
+  },
+  {
+    "symbol": "INTC",
+    "price": 51.21,
+    "volume": 65921,
+    "timestamp": 1759668228
+  },
+  {
+    "symbol": "BABA",
+    "price": 100.11,
+    "volume": 76066,
+    "timestamp": 1759668230
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 136.75,
+    "volume": 72186,
+    "timestamp": 1759668232
+  },
+  {
+    "symbol": "NVDA",
+    "price": 401.68,
+    "volume": 6453,
+    "timestamp": 1759668234
+  }
+]

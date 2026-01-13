@@ -1,0 +1,63 @@
+services:
+  pinot-controller:
+    image: apachepinot/pinot:1.2.0
+    container_name: pinot-controller
+    command: StartController -zkAddress pinot-zookeeper:2181
+    ports:
+      - "9000:9000"
+    restart: unless-stopped
+    networks:
+      - pinot_network
+
+  pinot-broker:
+    image: apachepinot/pinot:1.2.0
+    container_name: pinot-broker
+    command: StartBroker -zkAddress pinot-zookeeper:2181
+    ports:
+      - "8099:8099"
+    restart: unless-stopped
+    networks:
+      - pinot_network
+
+  pinot-server:
+    image: apachepinot/pinot:1.2.0
+    container_name: pinot-server
+    command: StartServer -zkAddress pinot-zookeeper:2181
+    ports:
+      - "8098:8098"
+    restart: unless-stopped
+    networks:
+      - pinot_network
+
+  superset:
+    build:
+      context: .
+      dockerfile: Dockerfile.superset
+    container_name: superset
+    environment:
+      SUPERSET_SECRET_KEY: "superset_key"
+      SUPERSET_LOAD_EXAMPLES: "no"
+    ports:
+      - "8088:8088"
+    restart: unless-stopped
+    networks:
+      - pinot_network
+    volumes:
+      - ./superset_home:/app/superset_home
+    command: >
+      /bin/sh -c "
+      superset db upgrade &&
+      superset fab create-admin
+        --username admin
+        --password admin
+        --firstname Superset
+        --lastname Admin
+        --email admin@superset.com ||
+      true &&
+      superset init &&
+      gunicorn --bind 0.0.0.0:8088 'superset.app:create_app()'
+      "
+
+networks:
+  pinot_network:
+    external: true

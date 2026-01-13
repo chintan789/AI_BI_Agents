@@ -1,0 +1,28 @@
+{
+  "tableName": "testpinot",
+  "tableType": "REALTIME",
+  "segmentsConfig": {
+    "timeColumnName": "timestampInEpoch",
+    "timeType": "MILLISECONDS",
+    "schemaName": "testpinot",
+    "replicasPerPartition": "1"
+  },
+  "tenants": {},
+  "tableIndexConfig": {
+    "loadMode": "MMAP",
+    "streamConfigs": {
+      "streamType": "kafka",
+      "stream.kafka.topic.name": "testpinot",
+      "stream.kafka.decoder.class.name": "org.apache.pinot.plugin.inputformat.json.JSONMessageDecoder",
+      "stream.kafka.consumer.factory.class.name": "org.apache.pinot.plugin.stream.kafka20.KafkaConsumerFactory",
+      "stream.kafka.broker.list": "pinot-kafka:9092",
+      "realtime.segment.flush.threshold.rows": "0",
+      "realtime.segment.flush.threshold.time": "24h",
+      "realtime.segment.flush.threshold.segment.size": "50M",
+      "stream.kafka.consumer.prop.auto.offset.reset": "earliest"
+    }
+  },
+  "metadata": {
+    "customConfigs": {}
+  }
+}

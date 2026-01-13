@@ -1,0 +1,28 @@
+{
+  "tableName": "chalja_REALTIME",
+  "tableType": "REALTIME",
+  "segmentsConfig": {
+    "timeColumnName": "timestampInEpoch",
+    "timeType": "MILLISECONDS",
+    "schemaName": "chalja",
+    "replicasPerPartition": "1"
+  },
+  "tenants": {},
+  "tableIndexConfig": {
+    "loadMode": "MMAP",
+    "streamConfigs": {
+      "streamType": "kafka",
+      "stream.kafka.topic.name": "chalja-topic",
+      "stream.kafka.decoder.class.name": "org.apache.pinot.plugin.inputformat.json.JSONMessageDecoder",
+      "stream.kafka.consumer.factory.class.name": "org.apache.pinot.plugin.stream.kafka20.KafkaConsumerFactory",
+      "stream.kafka.broker.list": "pinot-kafka:9092",
+      "realtime.segment.flush.threshold.rows": "1000",
+      "stream.kafka.consumer.prop.auto.offset.reset": "smallest",
+      "stream.kafka.consumer.prop.request.timeout.ms": "60000",
+      "stream.kafka.consumer.prop.default.api.timeout.ms": "60000"
+    }
+  },
+  "metadata": {
+    "customConfigs": {}
+  }
+}

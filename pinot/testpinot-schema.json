@@ -1,0 +1,18 @@
+{
+  "schemaName": "testpinot",
+  "dimensionFieldSpecs": [
+    {"name": "studentID", "dataType": "INT"},
+    {"name": "firstName", "dataType": "STRING"},
+    {"name": "lastName", "dataType": "STRING"},
+    {"name": "gender", "dataType": "STRING"},
+    {"name": "subject", "dataType": "STRING"}
+  ],
+  "metricFieldSpecs": [
+    {"name": "score", "dataType": "DOUBLE"}
+  ],
+  "timeFieldSpec": {
+    "name": "timestampInEpoch",
+    "dataType": "LONG",
+    "timeType": "MILLISECONDS"
+  }
+}
