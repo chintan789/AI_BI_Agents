@@ -20,13 +20,12 @@ into a single architecture for **autonomous, intelligent analytics**.
   - Query analytical systems
   - Provide explanations and insights
 - Integrate real-time and batch data sources
-- Support modern analytical backends (Pinot, Kafka, etc.)
-- Enable future integration with BI tools (Superset, Power BI, etc.)
+- Support modern analytical backends (Pinot, Kafka)
+- Enable future integration with BI tools (Superset, Power BI)
 
 ---
 
 ## 🧩 Architecture (High Level)
 
 ```text
-Data Sources → Kafka → Pinot / Storage → AI Agents → BI / Users
-
+Data Sources → Kafka → Pinot / Storage → AI Agents → Superset / Dashboards → Users
