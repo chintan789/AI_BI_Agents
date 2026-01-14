@@ -88,10 +88,5 @@ Future Roadmap
  UI dashboard
 
 
-![iScreen Shoter - Google Chrome - 260114213914](https://github.com/user-attachments/assets/5c5bf9c4-abe2-4813-beef-3b6e499a3272)
 
-
-
-![iScreen Shoter - Google Chrome - 260114214129](https://github.com/user-attachments/assets/8af1d552-7d12-4da4-ae5b-23fbd2ad8e45)
-
-
+https://github.com/chintan789/AI_BI_Agents/blob/main/iScreen%20Shoter%20-%20Google%20Chrome%20-%20260114213914.jpg
