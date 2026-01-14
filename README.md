@@ -89,4 +89,4 @@ Future Roadmap
 
 
 
-https://github.com/chintan789/AI_BI_Agents/blob/main/iScreen%20Shoter%20-%20Google%20Chrome%20-%20260114213914.jpg
+![AI Agents UI Screenshot](iScreen Shoter - Google Chrome - 260114213914.jpg)
