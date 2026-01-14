@@ -88,7 +88,5 @@ Future Roadmap
  UI dashboard
 
 
+![iScreen Shoter - Google Chrome - 260114213914](https://github.com/user-attachments/assets/5c5bf9c4-abe2-4813-beef-3b6e499a3272)
 
-
-
-<img width="2993" height="1809" alt="image" src="https://github.com/user-attachments/assets/d8cbe811-ae56-4d12-aed8-1efa851767e3" />
