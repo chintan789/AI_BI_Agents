@@ -29,3 +29,60 @@ into a single architecture for **autonomous, intelligent analytics**.
 
 ```text
 Data Sources → Kafka → Pinot / Storage → AI Agents → Superset / Dashboards → Users
+
+
+
+
+Main components:
+
+Akka Streams / Pekko — real-time ingestion, transformation, and streaming
+
+Kafka — message bus for streaming data
+
+Pinot — low-latency analytical storage
+
+AI Agents — reasoning layer (Python-based)
+
+Superset — BI dashboards and charts with live/real-time refresh
+
+
+
+⚙️ Tech Stack
+
+Language: Scala (Akka / Pekko), Python (AI agents)
+
+Streaming / Ingestion: Akka Streams / Pekko
+
+Messaging: Apache Kafka
+
+Analytics DB: Apache Pinot
+
+BI / Visualization: Superset
+
+Containerization: Docker
+
+Future: LLMs, Vector DB, BI tools
+
+
+
+
+AI_BI_Agents/
+│
+├── ai_bi/              # Core AI + BI agent logic
+├── kafka_docker/       # Kafka setup using Docker
+├── pinot/              # Apache Pinot configs / setup
+├── README.md
+└── README.txt
+
+
+
+
+Future Roadmap
+
+ LLM integration (OpenAI / local models)
+
+ Vector DB for context memory
+
+ Alerting and recommendations engine
+
+ UI dashboard
