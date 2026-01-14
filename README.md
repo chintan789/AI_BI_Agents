@@ -1,3 +1,6 @@
+
+
+
 # AI + BI Agents Platform
 
 AI + BI Agents is an experimental platform to explore how **AI agents, real-time analytics, and BI systems** can work together to generate insights, KPIs, and decision support automatically.
@@ -24,6 +27,10 @@ into a single architecture for **autonomous, intelligent analytics**.
 - Enable future integration with BI tools (Superset, Power BI)
 
 ---
+
+
+
+![AI Agents UI](superset.jpg)
 
 ## 🧩 Architecture (High Level)
 
@@ -87,6 +94,4 @@ Future Roadmap
 
  UI dashboard
 
-
-![AI Agents UI](superset.jpg)
 
