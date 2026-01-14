@@ -1,6 +1,3 @@
-# AI_BI_Agents
-
-
 # AI + BI Agents Platform
 
 AI + BI Agents is an experimental platform to explore how **AI agents, real-time analytics, and BI systems** can work together to generate insights, KPIs, and decision support automatically.
