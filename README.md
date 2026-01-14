@@ -86,3 +86,9 @@ Future Roadmap
  Alerting and recommendations engine
 
  UI dashboard
+
+
+
+
+
+<img width="2993" height="1809" alt="image" src="https://github.com/user-attachments/assets/d8cbe811-ae56-4d12-aed8-1efa851767e3" />
